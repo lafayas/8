@@ -1,0 +1,1569 @@
+2022-07-22 00:13:23,074 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:13:24,475 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 200
+2022-07-22 00:13:24,475 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:13:24,475 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:13:25,604 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 200
+2022-07-22 00:13:25,604 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:13:25,605 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:13:26,618 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 404
+2022-07-22 00:13:26,618 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:13:26,619 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:13:27,777 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 400
+2022-07-22 00:13:27,777 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:13:31,212 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:13:32,270 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 200
+2022-07-22 00:13:32,270 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:13:32,271 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:13:33,381 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 200
+2022-07-22 00:13:33,381 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:13:33,382 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:13:34,472 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 404
+2022-07-22 00:13:34,472 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:13:34,473 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:13:35,508 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 400
+2022-07-22 00:13:35,508 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:14:48,030 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:14:49,477 INFO [test02_approve_trust.py(test05_recharge:102)] - 接口执行结果为: {'status': 200, 'description': {'form': "<form name='easypaysubmit' id='easypaysubmit' target='_blank' method='post' action='http://121.43.169.97:8000/muser/publicRequests'><input name='Version' type='hidden' value='10'/><input name='CmdId' type='hidden' value='NetSave'/><input name='MerCustId' type='hidden' value='6000060007313892'/><input name='UsrCustId' type='hidden' value='6020220721214401'/><input name='OrdId' type='hidden' value='22072122445000571135'/><input name='OrdDate' type='hidden' value='20220721'/><input name='GateBusiId' type='hidden' value='B2C'/><input name='OpenBankId' type='hidden' value=''/><input name='DcFlag' type='hidden' value='D'/><input name='TransAmt' type='hidden' value='1000.00'/><input name='RetUrl' type='hidden' value='http://user-p2p-test.itheima.net/trust/chinapnr/recharge/return/22072122445000571135'/><input name='BgRetUrl' type='hidden' value='https://www.baidu.com/'/><input name='OpenAcctId' type='hidden' value=''/><input name='CertId' type='hidden' value=''/><input name='MerPriv' type='hidden' value='10835'/><input name='ChkValue' type='hidden' value='-101'/><input name='CharSet' type='hidden' value='UTF-8'/></form><script>document.forms['easypaysubmit'].submit();</script>"}}
+2022-07-22 00:14:49,477 INFO [test02_approve_trust.py(test05_recharge:106)] - 断言通过！
+2022-07-22 00:14:50,440 INFO [test02_approve_trust.py(test05_recharge:111)] - 接口执行结果为: NetSave OK
+2022-07-22 00:14:50,440 INFO [test02_approve_trust.py(test05_recharge:114)] - 断言通过！
+2022-07-22 00:14:50,440 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:14:51,873 INFO [test02_approve_trust.py(test05_recharge:102)] - 接口执行结果为: {'status': 100, 'description': '验证码错误'}
+2022-07-22 00:14:51,873 ERROR [test02_approve_trust.py(test05_recharge:117)] - 断言错误！原因: 'form' not found in '{"status":100,"description":"验证码错误"}'
+2022-07-22 00:17:01,081 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:17:02,468 INFO [test02_approve_trust.py(test05_recharge:102)] - 接口执行结果为: {'status': 200, 'description': {'form': "<form name='easypaysubmit' id='easypaysubmit' target='_blank' method='post' action='http://121.43.169.97:8000/muser/publicRequests'><input name='Version' type='hidden' value='10'/><input name='CmdId' type='hidden' value='NetSave'/><input name='MerCustId' type='hidden' value='6000060007313892'/><input name='UsrCustId' type='hidden' value='6020220721214401'/><input name='OrdId' type='hidden' value='22072122470299621235'/><input name='OrdDate' type='hidden' value='20220721'/><input name='GateBusiId' type='hidden' value='B2C'/><input name='OpenBankId' type='hidden' value=''/><input name='DcFlag' type='hidden' value='D'/><input name='TransAmt' type='hidden' value='1000.00'/><input name='RetUrl' type='hidden' value='http://user-p2p-test.itheima.net/trust/chinapnr/recharge/return/22072122470299621235'/><input name='BgRetUrl' type='hidden' value='https://www.baidu.com/'/><input name='OpenAcctId' type='hidden' value=''/><input name='CertId' type='hidden' value=''/><input name='MerPriv' type='hidden' value='10835'/><input name='ChkValue' type='hidden' value='-101'/><input name='CharSet' type='hidden' value='UTF-8'/></form><script>document.forms['easypaysubmit'].submit();</script>"}}
+2022-07-22 00:17:02,468 INFO [test02_approve_trust.py(test05_recharge:106)] - 断言通过！
+2022-07-22 00:17:03,336 INFO [test02_approve_trust.py(test05_recharge:111)] - 接口执行结果为: NetSave OK
+2022-07-22 00:17:03,337 INFO [test02_approve_trust.py(test05_recharge:114)] - 断言通过！
+2022-07-22 00:17:03,337 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:17:04,774 INFO [test02_approve_trust.py(test05_recharge:102)] - 接口执行结果为: {'status': 100, 'description': '验证码错误'}
+2022-07-22 00:17:04,774 ERROR [test02_approve_trust.py(test05_recharge:119)] - 断言错误！原因: 'in <string>' requires string as left operand, not int
+2022-07-22 00:20:06,664 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:08,483 INFO [test02_approve_trust.py(test01_approve:29)] - 接口执行结果为: 
+
+
+<!DOCTYPE html>
+<html id="ng-app">
+	<head>
+		<base href="http://user-p2p-test.itheima.net:80/">
+
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	    <meta http-equiv="pragma" content="no-cache" />
+	    <meta http-equiv="cache-control" content="no-cache" />
+	    <meta http-equiv="expires" content="0" />
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	    <meta name="keywords" content="第三方托管"/>
+		<meta name="description" content="传智播客" />
+
+		<title>传智播客</title>
+
+	    <link href="assets/trust/style/css/dist/iconfont.css" type="text/css" rel="stylesheet" />
+	    <link href="assets/trust/style/css/dist/style.css" type="text/css" rel="stylesheet" />
+	    <link href="assets/trust/style/css/dist/extend.css" type="text/css" rel="stylesheet" />
+	 	<link href="http://imgv-p2p-test.itheima.net/system/config/20191217/c340f991-8b08-4f00-9e83-fc7aed2e3c66.png" rel="shortcut icon" type="image/x-icon" />
+	 	<script src="assets/trust/js/src/diyou.js"></script>
+	  	<script src="assets/trust/js/src/jquery-1.8.2.min.js"></script>
+	    <script src="assets/trust/js/src/json2.js"></script>
+	    <script src="assets/trust/js/src/angular.min.js"></script>
+	    <script src="assets/trust/js/src/angular-ngSea.js"></script>
+	    <script src="assets/trust/js/src/angular-paging.js"></script>
+	     <script>
+	    	var THEME_URL = "assets/trust";
+	        var	layerUrl = THEME_URL + "/js/src/plugins/layer/";
+	    </script>
+	    <script src="assets/trust/js/src/base.js"></script>
+	</head>
+
+	<body ng-cloak class="ng-cloak" style="background: #f5f5f5;">
+	    <div  style="width: 100%;" ng-controller="msgNumCtrl">
+	    	<div class="header">
+	    		
+
+
+<div class="header fn-clear">
+    <div class="header-top">
+        <div class="conbox fn-clear">
+            <div class="fl">
+                <span class="newIconfont">&#xe621;</span>
+                <span class="tel">400-810-6116</span>
+            </div>
+            <div class="sub-nav fr">
+   
+   
+              
+                <li class="regFinish"><a href="common/member/login" class="login">登录</a></li>
+                <li class="regFinish"><a href="common/member/reg" class="reg">有奖注册</a></li>
+         
+                              
+             
+               	<li class="last regFinish2" style="display:none;">
+                	<span class="user">你好，<a class="a-link1" href="member/member/center"></a></span>
+                		站内信(<a class="msg" href="member/message/index" >{{msgNum}}</a>)
+                    <a class="logout" href="member/member/logout">退出</a>
+                </li>
+                
+                
+                <li><a href="common/member/reg" class="help-center">帮助中心</a></li>
+                
+            </div>
+        </div>
+    </div>
+    <div class="header-cont">
+        <div class="conbox fn-clear">
+            <!-- <a class="logo" href="/"><img src="assets/trust/images/index/logo.png" alt="智客在线"></a> -->
+            
+				
+					<a class="logo" href="/"><img src="http://imgv-p2p-test.itheima.net/system/config/20191217/6f888441-c505-4a7c-85d2-ab2a29f49805.png" alt="传智播客" /></a>
+				
+				
+			
+            
+            
+            <div class="fr" style="font-size: 14px;line-height: 30px;margin-top:50px;color:#999;">
+
+		        <div class="enter-box fr regFinish" ng-if="system.title=='用户注册'">
+		            已有账号？<a class="a-link1" href="/common/member/login" style="color:#317ef3;font-style: underline;">立即登录</a>
+		        </div>
+	         
+	         
+	        
+	        	<div class="enter-box fr regFinish2" style="display:none;"><a class="a-link f-s14" href="/member/member/center" style="color:#317ef3;">返回用户中心&nbsp;<i class="iconfont">&#xe63f;</i></a></div>
+	        
+           </div>
+        </div>
+    </div>
+</div>
+<script>
+var login_error = "";
+
+//var isLogin = $.cookie('isLogin');
+$(function(){
+	var isLogin = sessionStorage.getItem('isLogin');
+	var phone = sessionStorage.getItem('phone');
+	console.log("isLogin"+ isLogin);
+	console.log("phone"+ phone);
+	if(isLogin != 1){                        		 	
+		$(".regFinish").show();
+	}else{
+		$(".regFinish2").show();
+		$(".regFinish").hide();	
+		$(".a-link1").text(phone);
+		sessionStorage.clear();
+// 		$(".msg").text(0);                        			
+   }
+});
+
+</script>
+<script>
+
+diyou.use('indexEffect', function (fn) {
+    fn.viewWeixin();
+});
+</script>
+
+
+	    	</div>
+	    	
+<!-- <input type="hidden" ng-model="system.title" ng-init="system.title='用户登录'"> -->
+<div  style="width: 100%;">
+<div class="login-bg" ng-controller="loginCtrl">
+	<div class="conbox">
+		<div class="enter-login fn-clear" style="background: none;">
+			<div class="login-box bor-e2 fr">
+				<div class="login-form">
+					<div class="login-tit">用户登录</div>
+					<form name="formLogin" id="login_form" role="form" ng-submit="submit();" novalidate>
+						<div class="login-cont">
+							<div id="err" class="login-error" ng-if="loginErr">
+								<i class="iconfont">&#xe601;</i><span ng-bind="loginErr"></span>
+							</div>
+							<div class="login-item fn-clear">
+								<label for="" class="login-label"><em class="newIconfont">&#xe640;</em></label>
+								<input class="login-input" type="text" id="keywords" name="keywords" placeholder="用户名/邮箱/手机号" autocomplete="off" ng-model="login.keywords" my-placeholder required autofocus/>
+							</div>
+							<div class="login-item fn-clear">
+								<label for="" class="login-label"><em class="newIconfont">&#xe6bb;</em></label>
+                        		<input class="ng-hide">
+								<input class="login-input" type="password" id="password" name="password"  placeholder="登录密码" autocomplete="off" ng-model="login.password" my-placeholder required/>
+							</div>
+							<div class="login-item fn-clear" ng-if="verifycode_show">
+								<label for="" class="login-label"><i class="code"></i></label>
+								<input class="login-input mr10 w100" maxlength="4" type="text" id="verifycode" name="verifycode" placeholder="验证码" autocomplete="off" ng-model="login.verifycode" ng-change="checkcode(login.verifycode);" my-placeholder required/>
+								<span class="checkcode" ng-if="code">
+									<em class="iconfont info-error" ng-if="!infoerror">&#xe601;</em>
+									<em class="iconfont info-right" ng-if="infoerror">&#xe602;</em>
+								</span>
+								<img class="code" src="common/public/verifycode/1" onclick="this.src='common/public/verifycode/'+Math.random();"/>
+							</div>
+							<div class="login-item fn-clear">
+								<input class="login-btn" type="submit" value="立即登录">
+							</div>
+							<div class="forget">
+								<p><span><a href="/member/public/getPwd" target="_blank" title="忘记密码？"><img src="/assets/trust/style/css/dist/images/loginlock.png"></a></span><a class="new-reg" href="/common/member/reg"><em>没有账号？马上注册</a></p>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<script type="text/javascript">
+diyou.use('users_login',function(dy){dy.login('log_form');});
+$(".login-input").focus(function(){
+	$(this).siblings('.login-label').find('.newIconfont').css("color","#317ef3");
+});
+$(".login-input").blur(function(){
+	$(this).siblings('.login-label').find('.newIconfont').css("color","initial");
+});
+</script>
+
+	    	<div id="mlayout_footer"></div>
+	    </div>
+	 	<div  style="width: 100%;">
+	 		
+
+
+<!-- footer start -->
+<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">
+<div ng-controller="newfooterCtrl">
+<div class="footer">
+    <div class="footer-top">
+        <div class="conbox">
+            <ul class="fn-clear">
+                <li>
+                    <img src="assets/trust/images/index/feat1.png" alt="">
+                    <h2>优质项目</h2>
+                    <p>小额分散更安全安心</p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat2.png" alt="">
+                    <h2>领先企业</h2>
+                    <p>消费金融二十强企业 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat3.png" alt="">
+                    <h2>国资控股</h2>
+                    <p>首都城投战略投资 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat4.png" alt="">
+                    <h2>消费金融</h2>
+                    <p>专注年轻人的消费金融 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat5.png" alt="">
+                    <h2>严格风控</h2>
+                    <p>大数据风控</p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat6.png" alt="">
+                    <h2>合规经营</h2>
+                    <p>合法合规稳健规范</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer-btm">
+        <div class="conbox fn-clear">
+            <div class="fl left">
+                <h2>400-810-6116</h2>
+                <p>服务时间：早8:00至晚22:00</p>
+                <div class="contact-icon">
+                </div>
+            </div>
+            <div class="fl center fn-clear">
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe626;</i>
+                        <span>关于智客</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">智客介绍</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">创始团队</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">专家顾问</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">联系我们</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe601;</i>
+                        <span>安全保障</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">用户协议</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">隐私条款</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">合作伙伴</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1">安全保障</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe607;</i>
+                        <span>帮助中心</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">支付说明</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">收费标准</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe62f;</i>
+                        <span>荣誉资质</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">招贤纳士</a></li>
+                </ul>
+            </div>
+            <div class="fl right">
+            </div>
+        </div>
+        <div class="conbox">
+            <p class="copyright"></p>
+            <p class="copyright"><a href="http://www.miitbeian.gov.cn" target="_blank"></a></p>
+        </div>
+    </div>
+</div>
+<div class="footer-links">
+    <div class="conbox fn-clear">
+        <div class="verification">
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri1.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri2.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri3.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri4.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri5.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri6.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri7.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri8.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri9.png" height="36" alt="">
+            </a>
+        </div>
+    </div>
+</div>
+
+</div>
+<!-- footer end -->
+
+<!-- 右侧联系我们 -->
+
+
+<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">
+<div class="side-menu" id="offside">
+    <ul>
+        <li class="offside offside-question">
+            <a class="helps" href="/help" target="_blank">
+                <div class="icon-w">
+                    <i class="newIconfont">&#xe645;</i>
+                    <div class="hide-text">帮助中心</div>
+                </div>
+            </a>
+        </li>
+        <li class="offside offside-contact">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe63f;</i>
+                <div class="hide-text">在线客服</div>
+            </div>
+            <div class="popup-box">
+                <div>
+                    <h4><i class="newIconfont">&#xe635;</i>在线QQ客服</h4>
+                    <ul>
+                        <li>官方QQ群1：<i>534932601</i></li>
+                        <li>官方VIP群1：<i>128041585</i></li>
+                    </ul>
+                </div>
+                <p class="triangle"></p>
+            </div>
+        </li>
+        <li class="offside offside-calculator">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe69d;</i>
+                <div class="hide-text">收益计算</div>
+            </div>
+            <div class="popup-box">
+                <div>
+                    <h4>计算器</h4>
+                    <form id="right-tool-form" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
+                        <dl>
+                            <dd>
+                                <div class="ui-label">借款金额</div>
+                                <div class="ui-input">
+                                    <input type="text" name="account">
+                                    <em>元</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">年利率</div>
+                                <div class="ui-input">
+                                    <input type="text" name="lilv">
+                                    <em>%</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">借款期限</div>
+                                <div class="ui-input">
+                                    <input type="text" name="times">
+                                    <em>月</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">还款方式</div>
+                                <div class="ui-select">
+                                    <input type="hidden" name="type" value="month">
+                                    <div class="select-value"><span>等额本息</span><em></em>
+                                    </div>
+                                    <div class="select-list">
+                                        <ul id="borrow-style-select">
+                                            <li data-val="month">等额本息</li>
+                                            <!--  <li data-val="season">按季还款</li>  -->
+                                            <li data-val="end">到期还本还息</li>
+                                            <li data-val="endmonth">按月付息</li>
+                                            <!-- <li data-val="endmonths">按月付息到期还本</li>  -->
+                                        </ul>
+                                    </div>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">&nbsp;</div>
+                                <input class="ui-sub" type="submit" value="开始计算">
+                            </dd>
+                        </dl>
+                    </form>
+
+                    <div class="result-box" id="compileRightResult">
+                        <h4>计算结果</h4>
+                        <ul>
+                            <li>
+                                <label class="ui-label">每个月将偿还：</label>
+                                <span class="ui-input">
+                                    <em class="monthAcc">0.00</em> 元
+                                </span>
+                            </li>
+                            <li>
+                                <label class="ui-label">月利率：</label>
+                                <span class="ui-input">
+                                    <i class="monthAp">0.00</i> %
+                                </span>
+                            </li>
+                            <li>
+                                <label class="ui-label">还款本息总额：</label>
+                                <span class="ui-input">
+                                    <i class="monthIn">0.00</i> 元
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="triangle triangle1" style="top: -200px;"></p>
+            </div>
+        </li>
+        <li class="offside return-top">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe7d2;</i>
+                <div class="hide-text">返回顶部</div>
+            </div>
+        </li>
+    </ul>
+</div>
+<script type="text/javascript">
+	diyou.use('offside', function(dy) {
+	    dy.offside('.return-top');
+	});
+	diyou.use('tool', function(d) {
+	    d.tool('right-tool-form','compileRightResult');
+	});
+</script>
+
+<!— WPA Button Begin —>
+<!-- <script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA3Njk0NF8zNTcxNTRfNDAwNjExODAwMF8"></script> -->
+<!— WPA Button END —>
+
+
+<!-- 结束 -->
+<script type="text/javascript">
+diyou.use('footer', function(f) {
+    f.aboutus();
+})
+diyou.on('error', function(module) {
+    if (module.status != 5) {
+        console.error('diyou error: ', module);
+    }
+});
+//Step2: bootstrap youself
+diyou.use(['app'], function(app) {
+    angular.bootstrap(document, ['app']);
+});
+diyou.use('indexEffect', function (fn) {
+    fn.closePop();
+});
+</script>
+<div style="display:none;">
+    <script type="text/javascript">
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_1253656941'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1253656941' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+</div>
+<script>
+diyou.use('indexEffect', function (fn) {
+    fn.hoverImg();
+    fn.hoverBotImg();
+    fn.clickMore();
+});
+</script>
+
+		</div>
+	</body>
+</html>
+
+2022-07-22 00:20:08,484 ERROR [test02_approve_trust.py(test01_approve:35)] - 断言错误！原因: '提交成功' not found in '\r\n\r\n\r\n<!DOCTYPE html>\r\n<html id="ng-app">\r\n\t<head>\r\n\t\t<base href="http://user-p2p-test.itheima.net:80/">\r\n\r\n\t    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n\t    <meta http-equiv="pragma" content="no-cache" />\r\n\t    <meta http-equiv="cache-control" content="no-cache" />\r\n\t    <meta http-equiv="expires" content="0" />\r\n\t    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\r\n\t    <meta name="keywords" content="第三方托管"/>\r\n\t\t<meta name="description" content="传智播客" />\r\n\r\n\t\t<title>传智播客</title>\r\n\r\n\t    <link href="assets/trust/style/css/dist/iconfont.css" type="text/css" rel="stylesheet" />\r\n\t    <link href="assets/trust/style/css/dist/style.css" type="text/css" rel="stylesheet" />\r\n\t    <link href="assets/trust/style/css/dist/extend.css" type="text/css" rel="stylesheet" />\r\n\t \t<link href="http://imgv-p2p-test.itheima.net/system/config/20191217/c340f991-8b08-4f00-9e83-fc7aed2e3c66.png" rel="shortcut icon" type="image/x-icon" />\r\n\t \t<script src="assets/trust/js/src/diyou.js"></script>\r\n\t  \t<script src="assets/trust/js/src/jquery-1.8.2.min.js"></script>\r\n\t    <script src="assets/trust/js/src/json2.js"></script>\r\n\t    <script src="assets/trust/js/src/angular.min.js"></script>\r\n\t    <script src="assets/trust/js/src/angular-ngSea.js"></script>\r\n\t    <script src="assets/trust/js/src/angular-paging.js"></script>\r\n\t     <script>\r\n\t    \tvar THEME_URL = "assets/trust";\r\n\t        var\tlayerUrl = THEME_URL + "/js/src/plugins/layer/";\r\n\t    </script>\r\n\t    <script src="assets/trust/js/src/base.js"></script>\r\n\t</head>\r\n\r\n\t<body ng-cloak class="ng-cloak" style="background: #f5f5f5;">\r\n\t    <div  style="width: 100%;" ng-controller="msgNumCtrl">\r\n\t    \t<div class="header">\r\n\t    \t\t\r\n\r\n\r\n<div class="header fn-clear">\r\n    <div class="header-top">\r\n        <div class="conbox fn-clear">\r\n            <div class="fl">\r\n                <span class="newIconfont">&#xe621;</span>\r\n                <span class="tel">400-810-6116</span>\r\n            </div>\r\n            <div class="sub-nav fr">\r\n   \r\n   \r\n              \r\n                <li class="regFinish"><a href="common/member/login" class="login">登录</a></li>\r\n                <li class="regFinish"><a href="common/member/reg" class="reg">有奖注册</a></li>\r\n         \r\n                              \r\n             \r\n               \t<li class="last regFinish2" style="display:none;">\r\n                \t<span class="user">你好，<a class="a-link1" href="member/member/center"></a></span>\r\n                \t\t站内信(<a class="msg" href="member/message/index" >{{msgNum}}</a>)\r\n                    <a class="logout" href="member/member/logout">退出</a>\r\n                </li>\r\n                \r\n                \r\n                <li><a href="common/member/reg" class="help-center">帮助中心</a></li>\r\n                \r\n            </div>\r\n        </div>\r\n    </div>\r\n    <div class="header-cont">\r\n        <div class="conbox fn-clear">\r\n            <!-- <a class="logo" href="/"><img src="assets/trust/images/index/logo.png" alt="智客在线"></a> -->\r\n            \r\n\t\t\t\t\r\n\t\t\t\t\t<a class="logo" href="/"><img src="http://imgv-p2p-test.itheima.net/system/config/20191217/6f888441-c505-4a7c-85d2-ab2a29f49805.png" alt="传智播客" /></a>\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n            \r\n            \r\n            <div class="fr" style="font-size: 14px;line-height: 30px;margin-top:50px;color:#999;">\r\n\r\n\t\t        <div class="enter-box fr regFinish" ng-if="system.title==\'用户注册\'">\r\n\t\t            已有账号？<a class="a-link1" href="/common/member/login" style="color:#317ef3;font-style: underline;">立即登录</a>\r\n\t\t        </div>\r\n\t         \r\n\t         \r\n\t        \r\n\t        \t<div class="enter-box fr regFinish2" style="display:none;"><a class="a-link f-s14" href="/member/member/center" style="color:#317ef3;">返回用户中心&nbsp;<i class="iconfont">&#xe63f;</i></a></div>\r\n\t        \r\n           </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n<script>\r\nvar login_error = "";\r\n\r\n//var isLogin = $.cookie(\'isLogin\');\r\n$(function(){\r\n\tvar isLogin = sessionStorage.getItem(\'isLogin\');\r\n\tvar phone = sessionStorage.getItem(\'phone\');\r\n\tconsole.log("isLogin"+ isLogin);\r\n\tconsole.log("phone"+ phone);\r\n\tif(isLogin != 1){                        \t\t \t\r\n\t\t$(".regFinish").show();\r\n\t}else{\r\n\t\t$(".regFinish2").show();\r\n\t\t$(".regFinish").hide();\t\r\n\t\t$(".a-link1").text(phone);\r\n\t\tsessionStorage.clear();\r\n// \t\t$(".msg").text(0);                        \t\t\t\r\n   }\r\n});\r\n\r\n</script>\r\n<script>\r\n\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.viewWeixin();\r\n});\r\n</script>\r\n\r\n\r\n\t    \t</div>\r\n\t    \t\r\n<!-- <input type="hidden" ng-model="system.title" ng-init="system.title=\'用户登录\'"> -->\r\n<div  style="width: 100%;">\r\n<div class="login-bg" ng-controller="loginCtrl">\r\n\t<div class="conbox">\r\n\t\t<div class="enter-login fn-clear" style="background: none;">\r\n\t\t\t<div class="login-box bor-e2 fr">\r\n\t\t\t\t<div class="login-form">\r\n\t\t\t\t\t<div class="login-tit">用户登录</div>\r\n\t\t\t\t\t<form name="formLogin" id="login_form" role="form" ng-submit="submit();" novalidate>\r\n\t\t\t\t\t\t<div class="login-cont">\r\n\t\t\t\t\t\t\t<div id="err" class="login-error" ng-if="loginErr">\r\n\t\t\t\t\t\t\t\t<i class="iconfont">&#xe601;</i><span ng-bind="loginErr"></span>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><em class="newIconfont">&#xe640;</em></label>\r\n\t\t\t\t\t\t\t\t<input class="login-input" type="text" id="keywords" name="keywords" placeholder="用户名/邮箱/手机号" autocomplete="off" ng-model="login.keywords" my-placeholder required autofocus/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><em class="newIconfont">&#xe6bb;</em></label>\r\n                        \t\t<input class="ng-hide">\r\n\t\t\t\t\t\t\t\t<input class="login-input" type="password" id="password" name="password"  placeholder="登录密码" autocomplete="off" ng-model="login.password" my-placeholder required/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear" ng-if="verifycode_show">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><i class="code"></i></label>\r\n\t\t\t\t\t\t\t\t<input class="login-input mr10 w100" maxlength="4" type="text" id="verifycode" name="verifycode" placeholder="验证码" autocomplete="off" ng-model="login.verifycode" ng-change="checkcode(login.verifycode);" my-placeholder required/>\r\n\t\t\t\t\t\t\t\t<span class="checkcode" ng-if="code">\r\n\t\t\t\t\t\t\t\t\t<em class="iconfont info-error" ng-if="!infoerror">&#xe601;</em>\r\n\t\t\t\t\t\t\t\t\t<em class="iconfont info-right" ng-if="infoerror">&#xe602;</em>\r\n\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<img class="code" src="common/public/verifycode/1" onclick="this.src=\'common/public/verifycode/\'+Math.random();"/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<input class="login-btn" type="submit" value="立即登录">\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="forget">\r\n\t\t\t\t\t\t\t\t<p><span><a href="/member/public/getPwd" target="_blank" title="忘记密码？"><img src="/assets/trust/style/css/dist/images/loginlock.png"></a></span><a class="new-reg" href="/common/member/reg"><em>没有账号？马上注册</a></p>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</form>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n</div>\r\n<script type="text/javascript">\r\ndiyou.use(\'users_login\',function(dy){dy.login(\'log_form\');});\r\n$(".login-input").focus(function(){\r\n\t$(this).siblings(\'.login-label\').find(\'.newIconfont\').css("color","#317ef3");\r\n});\r\n$(".login-input").blur(function(){\r\n\t$(this).siblings(\'.login-label\').find(\'.newIconfont\').css("color","initial");\r\n});\r\n</script>\r\n\r\n\t    \t<div id="mlayout_footer"></div>\r\n\t    </div>\r\n\t \t<div  style="width: 100%;">\r\n\t \t\t\r\n\r\n\r\n<!-- footer start -->\r\n<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">\r\n<div ng-controller="newfooterCtrl">\r\n<div class="footer">\r\n    <div class="footer-top">\r\n        <div class="conbox">\r\n            <ul class="fn-clear">\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat1.png" alt="">\r\n                    <h2>优质项目</h2>\r\n                    <p>小额分散更安全安心</p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat2.png" alt="">\r\n                    <h2>领先企业</h2>\r\n                    <p>消费金融二十强企业 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat3.png" alt="">\r\n                    <h2>国资控股</h2>\r\n                    <p>首都城投战略投资 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat4.png" alt="">\r\n                    <h2>消费金融</h2>\r\n                    <p>专注年轻人的消费金融 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat5.png" alt="">\r\n                    <h2>严格风控</h2>\r\n                    <p>大数据风控</p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat6.png" alt="">\r\n                    <h2>合规经营</h2>\r\n                    <p>合法合规稳健规范</p>\r\n                </li>\r\n            </ul>\r\n        </div>\r\n    </div>\r\n\r\n    <div class="footer-btm">\r\n        <div class="conbox fn-clear">\r\n            <div class="fl left">\r\n                <h2>400-810-6116</h2>\r\n                <p>服务时间：早8:00至晚22:00</p>\r\n                <div class="contact-icon">\r\n                </div>\r\n            </div>\r\n            <div class="fl center fn-clear">\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe626;</i>\r\n                        <span>关于智客</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">智客介绍</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">创始团队</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">专家顾问</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">联系我们</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe601;</i>\r\n                        <span>安全保障</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">用户协议</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">隐私条款</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">合作伙伴</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1">安全保障</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe607;</i>\r\n                        <span>帮助中心</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">支付说明</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">收费标准</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe62f;</i>\r\n                        <span>荣誉资质</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">招贤纳士</a></li>\r\n                </ul>\r\n            </div>\r\n            <div class="fl right">\r\n            </div>\r\n        </div>\r\n        <div class="conbox">\r\n            <p class="copyright"></p>\r\n            <p class="copyright"><a href="http://www.miitbeian.gov.cn" target="_blank"></a></p>\r\n        </div>\r\n    </div>\r\n</div>\r\n<div class="footer-links">\r\n    <div class="conbox fn-clear">\r\n        <div class="verification">\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri1.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri2.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri3.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri4.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri5.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri6.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri7.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri8.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri9.png" height="36" alt="">\r\n            </a>\r\n        </div>\r\n    </div>\r\n</div>\r\n\r\n</div>\r\n<!-- footer end -->\r\n\r\n<!-- 右侧联系我们 -->\r\n\r\n\r\n<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">\r\n<div class="side-menu" id="offside">\r\n    <ul>\r\n        <li class="offside offside-question">\r\n            <a class="helps" href="/help" target="_blank">\r\n                <div class="icon-w">\r\n                    <i class="newIconfont">&#xe645;</i>\r\n                    <div class="hide-text">帮助中心</div>\r\n                </div>\r\n            </a>\r\n        </li>\r\n        <li class="offside offside-contact">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe63f;</i>\r\n                <div class="hide-text">在线客服</div>\r\n            </div>\r\n            <div class="popup-box">\r\n                <div>\r\n                    <h4><i class="newIconfont">&#xe635;</i>在线QQ客服</h4>\r\n                    <ul>\r\n                        <li>官方QQ群1：<i>534932601</i></li>\r\n                        <li>官方VIP群1：<i>128041585</i></li>\r\n                    </ul>\r\n                </div>\r\n                <p class="triangle"></p>\r\n            </div>\r\n        </li>\r\n        <li class="offside offside-calculator">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe69d;</i>\r\n                <div class="hide-text">收益计算</div>\r\n            </div>\r\n            <div class="popup-box">\r\n                <div>\r\n                    <h4>计算器</h4>\r\n                    <form id="right-tool-form" method="post" novalidate="novalidate" class="ng-pristine ng-valid">\r\n                        <dl>\r\n                            <dd>\r\n                                <div class="ui-label">借款金额</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="account">\r\n                                    <em>元</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">年利率</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="lilv">\r\n                                    <em>%</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">借款期限</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="times">\r\n                                    <em>月</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">还款方式</div>\r\n                                <div class="ui-select">\r\n                                    <input type="hidden" name="type" value="month">\r\n                                    <div class="select-value"><span>等额本息</span><em></em>\r\n                                    </div>\r\n                                    <div class="select-list">\r\n                                        <ul id="borrow-style-select">\r\n                                            <li data-val="month">等额本息</li>\r\n                                            <!--  <li data-val="season">按季还款</li>  -->\r\n                                            <li data-val="end">到期还本还息</li>\r\n                                            <li data-val="endmonth">按月付息</li>\r\n                                            <!-- <li data-val="endmonths">按月付息到期还本</li>  -->\r\n                                        </ul>\r\n                                    </div>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">&nbsp;</div>\r\n                                <input class="ui-sub" type="submit" value="开始计算">\r\n                            </dd>\r\n                        </dl>\r\n                    </form>\r\n\r\n                    <div class="result-box" id="compileRightResult">\r\n                        <h4>计算结果</h4>\r\n                        <ul>\r\n                            <li>\r\n                                <label class="ui-label">每个月将偿还：</label>\r\n                                <span class="ui-input">\r\n                                    <em class="monthAcc">0.00</em> 元\r\n                                </span>\r\n                            </li>\r\n                            <li>\r\n                                <label class="ui-label">月利率：</label>\r\n                                <span class="ui-input">\r\n                                    <i class="monthAp">0.00</i> %\r\n                                </span>\r\n                            </li>\r\n                            <li>\r\n                                <label class="ui-label">还款本息总额：</label>\r\n                                <span class="ui-input">\r\n                                    <i class="monthIn">0.00</i> 元\r\n                                </span>\r\n                            </li>\r\n                        </ul>\r\n                    </div>\r\n                </div>\r\n                <p class="triangle triangle1" style="top: -200px;"></p>\r\n            </div>\r\n        </li>\r\n        <li class="offside return-top">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe7d2;</i>\r\n                <div class="hide-text">返回顶部</div>\r\n            </div>\r\n        </li>\r\n    </ul>\r\n</div>\r\n<script type="text/javascript">\r\n\tdiyou.use(\'offside\', function(dy) {\r\n\t    dy.offside(\'.return-top\');\r\n\t});\r\n\tdiyou.use(\'tool\', function(d) {\r\n\t    d.tool(\'right-tool-form\',\'compileRightResult\');\r\n\t});\r\n</script>\r\n\r\n<!— WPA Button Begin —>\r\n<!-- <script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA3Njk0NF8zNTcxNTRfNDAwNjExODAwMF8"></script> -->\r\n<!— WPA Button END —>\r\n\r\n\r\n<!-- 结束 -->\r\n<script type="text/javascript">\r\ndiyou.use(\'footer\', function(f) {\r\n    f.aboutus();\r\n})\r\ndiyou.on(\'error\', function(module) {\r\n    if (module.status != 5) {\r\n        console.error(\'diyou error: \', module);\r\n    }\r\n});\r\n//Step2: bootstrap youself\r\ndiyou.use([\'app\'], function(app) {\r\n    angular.bootstrap(document, [\'app\']);\r\n});\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.closePop();\r\n});\r\n</script>\r\n<div style="display:none;">\r\n    <script type="text/javascript">\r\n    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");\r\n    document.write(unescape("%3Cspan id=\'cnzz_stat_icon_1253656941\'%3E%3C/span%3E%3Cscript src=\'" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1253656941\' type=\'text/javascript\'%3E%3C/script%3E"));\r\n    </script>\r\n</div>\r\n<script>\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.hoverImg();\r\n    fn.hoverBotImg();\r\n    fn.clickMore();\r\n});\r\n</script>\r\n\r\n\t\t</div>\r\n\t</body>\r\n</html>\r\n'
+2022-07-22 00:20:37,287 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:39,194 INFO [test02_approve_trust.py(test01_approve:29)] - 接口执行结果为: 
+
+
+<!DOCTYPE html>
+<html id="ng-app">
+	<head>
+		<base href="http://user-p2p-test.itheima.net:80/">
+
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	    <meta http-equiv="pragma" content="no-cache" />
+	    <meta http-equiv="cache-control" content="no-cache" />
+	    <meta http-equiv="expires" content="0" />
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	    <meta name="keywords" content="第三方托管"/>
+		<meta name="description" content="传智播客" />
+
+		<title>传智播客</title>
+
+	    <link href="assets/trust/style/css/dist/iconfont.css" type="text/css" rel="stylesheet" />
+	    <link href="assets/trust/style/css/dist/style.css" type="text/css" rel="stylesheet" />
+	    <link href="assets/trust/style/css/dist/extend.css" type="text/css" rel="stylesheet" />
+	 	<link href="http://imgv-p2p-test.itheima.net/system/config/20191217/c340f991-8b08-4f00-9e83-fc7aed2e3c66.png" rel="shortcut icon" type="image/x-icon" />
+	 	<script src="assets/trust/js/src/diyou.js"></script>
+	  	<script src="assets/trust/js/src/jquery-1.8.2.min.js"></script>
+	    <script src="assets/trust/js/src/json2.js"></script>
+	    <script src="assets/trust/js/src/angular.min.js"></script>
+	    <script src="assets/trust/js/src/angular-ngSea.js"></script>
+	    <script src="assets/trust/js/src/angular-paging.js"></script>
+	     <script>
+	    	var THEME_URL = "assets/trust";
+	        var	layerUrl = THEME_URL + "/js/src/plugins/layer/";
+	    </script>
+	    <script src="assets/trust/js/src/base.js"></script>
+	</head>
+
+	<body ng-cloak class="ng-cloak" style="background: #f5f5f5;">
+	    <div  style="width: 100%;" ng-controller="msgNumCtrl">
+	    	<div class="header">
+	    		
+
+
+<div class="header fn-clear">
+    <div class="header-top">
+        <div class="conbox fn-clear">
+            <div class="fl">
+                <span class="newIconfont">&#xe621;</span>
+                <span class="tel">400-810-6116</span>
+            </div>
+            <div class="sub-nav fr">
+   
+   
+              
+                <li class="regFinish"><a href="common/member/login" class="login">登录</a></li>
+                <li class="regFinish"><a href="common/member/reg" class="reg">有奖注册</a></li>
+         
+                              
+             
+               	<li class="last regFinish2" style="display:none;">
+                	<span class="user">你好，<a class="a-link1" href="member/member/center"></a></span>
+                		站内信(<a class="msg" href="member/message/index" >{{msgNum}}</a>)
+                    <a class="logout" href="member/member/logout">退出</a>
+                </li>
+                
+                
+                <li><a href="common/member/reg" class="help-center">帮助中心</a></li>
+                
+            </div>
+        </div>
+    </div>
+    <div class="header-cont">
+        <div class="conbox fn-clear">
+            <!-- <a class="logo" href="/"><img src="assets/trust/images/index/logo.png" alt="智客在线"></a> -->
+            
+				
+					<a class="logo" href="/"><img src="http://imgv-p2p-test.itheima.net/system/config/20191217/6f888441-c505-4a7c-85d2-ab2a29f49805.png" alt="传智播客" /></a>
+				
+				
+			
+            
+            
+            <div class="fr" style="font-size: 14px;line-height: 30px;margin-top:50px;color:#999;">
+
+		        <div class="enter-box fr regFinish" ng-if="system.title=='用户注册'">
+		            已有账号？<a class="a-link1" href="/common/member/login" style="color:#317ef3;font-style: underline;">立即登录</a>
+		        </div>
+	         
+	         
+	        
+	        	<div class="enter-box fr regFinish2" style="display:none;"><a class="a-link f-s14" href="/member/member/center" style="color:#317ef3;">返回用户中心&nbsp;<i class="iconfont">&#xe63f;</i></a></div>
+	        
+           </div>
+        </div>
+    </div>
+</div>
+<script>
+var login_error = "";
+
+//var isLogin = $.cookie('isLogin');
+$(function(){
+	var isLogin = sessionStorage.getItem('isLogin');
+	var phone = sessionStorage.getItem('phone');
+	console.log("isLogin"+ isLogin);
+	console.log("phone"+ phone);
+	if(isLogin != 1){                        		 	
+		$(".regFinish").show();
+	}else{
+		$(".regFinish2").show();
+		$(".regFinish").hide();	
+		$(".a-link1").text(phone);
+		sessionStorage.clear();
+// 		$(".msg").text(0);                        			
+   }
+});
+
+</script>
+<script>
+
+diyou.use('indexEffect', function (fn) {
+    fn.viewWeixin();
+});
+</script>
+
+
+	    	</div>
+	    	
+<!-- <input type="hidden" ng-model="system.title" ng-init="system.title='用户登录'"> -->
+<div  style="width: 100%;">
+<div class="login-bg" ng-controller="loginCtrl">
+	<div class="conbox">
+		<div class="enter-login fn-clear" style="background: none;">
+			<div class="login-box bor-e2 fr">
+				<div class="login-form">
+					<div class="login-tit">用户登录</div>
+					<form name="formLogin" id="login_form" role="form" ng-submit="submit();" novalidate>
+						<div class="login-cont">
+							<div id="err" class="login-error" ng-if="loginErr">
+								<i class="iconfont">&#xe601;</i><span ng-bind="loginErr"></span>
+							</div>
+							<div class="login-item fn-clear">
+								<label for="" class="login-label"><em class="newIconfont">&#xe640;</em></label>
+								<input class="login-input" type="text" id="keywords" name="keywords" placeholder="用户名/邮箱/手机号" autocomplete="off" ng-model="login.keywords" my-placeholder required autofocus/>
+							</div>
+							<div class="login-item fn-clear">
+								<label for="" class="login-label"><em class="newIconfont">&#xe6bb;</em></label>
+                        		<input class="ng-hide">
+								<input class="login-input" type="password" id="password" name="password"  placeholder="登录密码" autocomplete="off" ng-model="login.password" my-placeholder required/>
+							</div>
+							<div class="login-item fn-clear" ng-if="verifycode_show">
+								<label for="" class="login-label"><i class="code"></i></label>
+								<input class="login-input mr10 w100" maxlength="4" type="text" id="verifycode" name="verifycode" placeholder="验证码" autocomplete="off" ng-model="login.verifycode" ng-change="checkcode(login.verifycode);" my-placeholder required/>
+								<span class="checkcode" ng-if="code">
+									<em class="iconfont info-error" ng-if="!infoerror">&#xe601;</em>
+									<em class="iconfont info-right" ng-if="infoerror">&#xe602;</em>
+								</span>
+								<img class="code" src="common/public/verifycode/1" onclick="this.src='common/public/verifycode/'+Math.random();"/>
+							</div>
+							<div class="login-item fn-clear">
+								<input class="login-btn" type="submit" value="立即登录">
+							</div>
+							<div class="forget">
+								<p><span><a href="/member/public/getPwd" target="_blank" title="忘记密码？"><img src="/assets/trust/style/css/dist/images/loginlock.png"></a></span><a class="new-reg" href="/common/member/reg"><em>没有账号？马上注册</a></p>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<script type="text/javascript">
+diyou.use('users_login',function(dy){dy.login('log_form');});
+$(".login-input").focus(function(){
+	$(this).siblings('.login-label').find('.newIconfont').css("color","#317ef3");
+});
+$(".login-input").blur(function(){
+	$(this).siblings('.login-label').find('.newIconfont').css("color","initial");
+});
+</script>
+
+	    	<div id="mlayout_footer"></div>
+	    </div>
+	 	<div  style="width: 100%;">
+	 		
+
+
+<!-- footer start -->
+<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">
+<div ng-controller="newfooterCtrl">
+<div class="footer">
+    <div class="footer-top">
+        <div class="conbox">
+            <ul class="fn-clear">
+                <li>
+                    <img src="assets/trust/images/index/feat1.png" alt="">
+                    <h2>优质项目</h2>
+                    <p>小额分散更安全安心</p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat2.png" alt="">
+                    <h2>领先企业</h2>
+                    <p>消费金融二十强企业 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat3.png" alt="">
+                    <h2>国资控股</h2>
+                    <p>首都城投战略投资 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat4.png" alt="">
+                    <h2>消费金融</h2>
+                    <p>专注年轻人的消费金融 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat5.png" alt="">
+                    <h2>严格风控</h2>
+                    <p>大数据风控</p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat6.png" alt="">
+                    <h2>合规经营</h2>
+                    <p>合法合规稳健规范</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer-btm">
+        <div class="conbox fn-clear">
+            <div class="fl left">
+                <h2>400-810-6116</h2>
+                <p>服务时间：早8:00至晚22:00</p>
+                <div class="contact-icon">
+                </div>
+            </div>
+            <div class="fl center fn-clear">
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe626;</i>
+                        <span>关于智客</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">智客介绍</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">创始团队</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">专家顾问</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">联系我们</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe601;</i>
+                        <span>安全保障</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">用户协议</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">隐私条款</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">合作伙伴</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1">安全保障</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe607;</i>
+                        <span>帮助中心</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">支付说明</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">收费标准</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe62f;</i>
+                        <span>荣誉资质</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">招贤纳士</a></li>
+                </ul>
+            </div>
+            <div class="fl right">
+            </div>
+        </div>
+        <div class="conbox">
+            <p class="copyright"></p>
+            <p class="copyright"><a href="http://www.miitbeian.gov.cn" target="_blank"></a></p>
+        </div>
+    </div>
+</div>
+<div class="footer-links">
+    <div class="conbox fn-clear">
+        <div class="verification">
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri1.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri2.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri3.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri4.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri5.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri6.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri7.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri8.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri9.png" height="36" alt="">
+            </a>
+        </div>
+    </div>
+</div>
+
+</div>
+<!-- footer end -->
+
+<!-- 右侧联系我们 -->
+
+
+<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">
+<div class="side-menu" id="offside">
+    <ul>
+        <li class="offside offside-question">
+            <a class="helps" href="/help" target="_blank">
+                <div class="icon-w">
+                    <i class="newIconfont">&#xe645;</i>
+                    <div class="hide-text">帮助中心</div>
+                </div>
+            </a>
+        </li>
+        <li class="offside offside-contact">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe63f;</i>
+                <div class="hide-text">在线客服</div>
+            </div>
+            <div class="popup-box">
+                <div>
+                    <h4><i class="newIconfont">&#xe635;</i>在线QQ客服</h4>
+                    <ul>
+                        <li>官方QQ群1：<i>534932601</i></li>
+                        <li>官方VIP群1：<i>128041585</i></li>
+                    </ul>
+                </div>
+                <p class="triangle"></p>
+            </div>
+        </li>
+        <li class="offside offside-calculator">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe69d;</i>
+                <div class="hide-text">收益计算</div>
+            </div>
+            <div class="popup-box">
+                <div>
+                    <h4>计算器</h4>
+                    <form id="right-tool-form" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
+                        <dl>
+                            <dd>
+                                <div class="ui-label">借款金额</div>
+                                <div class="ui-input">
+                                    <input type="text" name="account">
+                                    <em>元</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">年利率</div>
+                                <div class="ui-input">
+                                    <input type="text" name="lilv">
+                                    <em>%</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">借款期限</div>
+                                <div class="ui-input">
+                                    <input type="text" name="times">
+                                    <em>月</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">还款方式</div>
+                                <div class="ui-select">
+                                    <input type="hidden" name="type" value="month">
+                                    <div class="select-value"><span>等额本息</span><em></em>
+                                    </div>
+                                    <div class="select-list">
+                                        <ul id="borrow-style-select">
+                                            <li data-val="month">等额本息</li>
+                                            <!--  <li data-val="season">按季还款</li>  -->
+                                            <li data-val="end">到期还本还息</li>
+                                            <li data-val="endmonth">按月付息</li>
+                                            <!-- <li data-val="endmonths">按月付息到期还本</li>  -->
+                                        </ul>
+                                    </div>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">&nbsp;</div>
+                                <input class="ui-sub" type="submit" value="开始计算">
+                            </dd>
+                        </dl>
+                    </form>
+
+                    <div class="result-box" id="compileRightResult">
+                        <h4>计算结果</h4>
+                        <ul>
+                            <li>
+                                <label class="ui-label">每个月将偿还：</label>
+                                <span class="ui-input">
+                                    <em class="monthAcc">0.00</em> 元
+                                </span>
+                            </li>
+                            <li>
+                                <label class="ui-label">月利率：</label>
+                                <span class="ui-input">
+                                    <i class="monthAp">0.00</i> %
+                                </span>
+                            </li>
+                            <li>
+                                <label class="ui-label">还款本息总额：</label>
+                                <span class="ui-input">
+                                    <i class="monthIn">0.00</i> 元
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="triangle triangle1" style="top: -200px;"></p>
+            </div>
+        </li>
+        <li class="offside return-top">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe7d2;</i>
+                <div class="hide-text">返回顶部</div>
+            </div>
+        </li>
+    </ul>
+</div>
+<script type="text/javascript">
+	diyou.use('offside', function(dy) {
+	    dy.offside('.return-top');
+	});
+	diyou.use('tool', function(d) {
+	    d.tool('right-tool-form','compileRightResult');
+	});
+</script>
+
+<!— WPA Button Begin —>
+<!-- <script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA3Njk0NF8zNTcxNTRfNDAwNjExODAwMF8"></script> -->
+<!— WPA Button END —>
+
+
+<!-- 结束 -->
+<script type="text/javascript">
+diyou.use('footer', function(f) {
+    f.aboutus();
+})
+diyou.on('error', function(module) {
+    if (module.status != 5) {
+        console.error('diyou error: ', module);
+    }
+});
+//Step2: bootstrap youself
+diyou.use(['app'], function(app) {
+    angular.bootstrap(document, ['app']);
+});
+diyou.use('indexEffect', function (fn) {
+    fn.closePop();
+});
+</script>
+<div style="display:none;">
+    <script type="text/javascript">
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_1253656941'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1253656941' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+</div>
+<script>
+diyou.use('indexEffect', function (fn) {
+    fn.hoverImg();
+    fn.hoverBotImg();
+    fn.clickMore();
+});
+</script>
+
+		</div>
+	</body>
+</html>
+
+2022-07-22 00:20:39,194 ERROR [test02_approve_trust.py(test01_approve:35)] - 断言错误！原因: '提交成功' not found in '\r\n\r\n\r\n<!DOCTYPE html>\r\n<html id="ng-app">\r\n\t<head>\r\n\t\t<base href="http://user-p2p-test.itheima.net:80/">\r\n\r\n\t    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n\t    <meta http-equiv="pragma" content="no-cache" />\r\n\t    <meta http-equiv="cache-control" content="no-cache" />\r\n\t    <meta http-equiv="expires" content="0" />\r\n\t    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\r\n\t    <meta name="keywords" content="第三方托管"/>\r\n\t\t<meta name="description" content="传智播客" />\r\n\r\n\t\t<title>传智播客</title>\r\n\r\n\t    <link href="assets/trust/style/css/dist/iconfont.css" type="text/css" rel="stylesheet" />\r\n\t    <link href="assets/trust/style/css/dist/style.css" type="text/css" rel="stylesheet" />\r\n\t    <link href="assets/trust/style/css/dist/extend.css" type="text/css" rel="stylesheet" />\r\n\t \t<link href="http://imgv-p2p-test.itheima.net/system/config/20191217/c340f991-8b08-4f00-9e83-fc7aed2e3c66.png" rel="shortcut icon" type="image/x-icon" />\r\n\t \t<script src="assets/trust/js/src/diyou.js"></script>\r\n\t  \t<script src="assets/trust/js/src/jquery-1.8.2.min.js"></script>\r\n\t    <script src="assets/trust/js/src/json2.js"></script>\r\n\t    <script src="assets/trust/js/src/angular.min.js"></script>\r\n\t    <script src="assets/trust/js/src/angular-ngSea.js"></script>\r\n\t    <script src="assets/trust/js/src/angular-paging.js"></script>\r\n\t     <script>\r\n\t    \tvar THEME_URL = "assets/trust";\r\n\t        var\tlayerUrl = THEME_URL + "/js/src/plugins/layer/";\r\n\t    </script>\r\n\t    <script src="assets/trust/js/src/base.js"></script>\r\n\t</head>\r\n\r\n\t<body ng-cloak class="ng-cloak" style="background: #f5f5f5;">\r\n\t    <div  style="width: 100%;" ng-controller="msgNumCtrl">\r\n\t    \t<div class="header">\r\n\t    \t\t\r\n\r\n\r\n<div class="header fn-clear">\r\n    <div class="header-top">\r\n        <div class="conbox fn-clear">\r\n            <div class="fl">\r\n                <span class="newIconfont">&#xe621;</span>\r\n                <span class="tel">400-810-6116</span>\r\n            </div>\r\n            <div class="sub-nav fr">\r\n   \r\n   \r\n              \r\n                <li class="regFinish"><a href="common/member/login" class="login">登录</a></li>\r\n                <li class="regFinish"><a href="common/member/reg" class="reg">有奖注册</a></li>\r\n         \r\n                              \r\n             \r\n               \t<li class="last regFinish2" style="display:none;">\r\n                \t<span class="user">你好，<a class="a-link1" href="member/member/center"></a></span>\r\n                \t\t站内信(<a class="msg" href="member/message/index" >{{msgNum}}</a>)\r\n                    <a class="logout" href="member/member/logout">退出</a>\r\n                </li>\r\n                \r\n                \r\n                <li><a href="common/member/reg" class="help-center">帮助中心</a></li>\r\n                \r\n            </div>\r\n        </div>\r\n    </div>\r\n    <div class="header-cont">\r\n        <div class="conbox fn-clear">\r\n            <!-- <a class="logo" href="/"><img src="assets/trust/images/index/logo.png" alt="智客在线"></a> -->\r\n            \r\n\t\t\t\t\r\n\t\t\t\t\t<a class="logo" href="/"><img src="http://imgv-p2p-test.itheima.net/system/config/20191217/6f888441-c505-4a7c-85d2-ab2a29f49805.png" alt="传智播客" /></a>\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n            \r\n            \r\n            <div class="fr" style="font-size: 14px;line-height: 30px;margin-top:50px;color:#999;">\r\n\r\n\t\t        <div class="enter-box fr regFinish" ng-if="system.title==\'用户注册\'">\r\n\t\t            已有账号？<a class="a-link1" href="/common/member/login" style="color:#317ef3;font-style: underline;">立即登录</a>\r\n\t\t        </div>\r\n\t         \r\n\t         \r\n\t        \r\n\t        \t<div class="enter-box fr regFinish2" style="display:none;"><a class="a-link f-s14" href="/member/member/center" style="color:#317ef3;">返回用户中心&nbsp;<i class="iconfont">&#xe63f;</i></a></div>\r\n\t        \r\n           </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n<script>\r\nvar login_error = "";\r\n\r\n//var isLogin = $.cookie(\'isLogin\');\r\n$(function(){\r\n\tvar isLogin = sessionStorage.getItem(\'isLogin\');\r\n\tvar phone = sessionStorage.getItem(\'phone\');\r\n\tconsole.log("isLogin"+ isLogin);\r\n\tconsole.log("phone"+ phone);\r\n\tif(isLogin != 1){                        \t\t \t\r\n\t\t$(".regFinish").show();\r\n\t}else{\r\n\t\t$(".regFinish2").show();\r\n\t\t$(".regFinish").hide();\t\r\n\t\t$(".a-link1").text(phone);\r\n\t\tsessionStorage.clear();\r\n// \t\t$(".msg").text(0);                        \t\t\t\r\n   }\r\n});\r\n\r\n</script>\r\n<script>\r\n\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.viewWeixin();\r\n});\r\n</script>\r\n\r\n\r\n\t    \t</div>\r\n\t    \t\r\n<!-- <input type="hidden" ng-model="system.title" ng-init="system.title=\'用户登录\'"> -->\r\n<div  style="width: 100%;">\r\n<div class="login-bg" ng-controller="loginCtrl">\r\n\t<div class="conbox">\r\n\t\t<div class="enter-login fn-clear" style="background: none;">\r\n\t\t\t<div class="login-box bor-e2 fr">\r\n\t\t\t\t<div class="login-form">\r\n\t\t\t\t\t<div class="login-tit">用户登录</div>\r\n\t\t\t\t\t<form name="formLogin" id="login_form" role="form" ng-submit="submit();" novalidate>\r\n\t\t\t\t\t\t<div class="login-cont">\r\n\t\t\t\t\t\t\t<div id="err" class="login-error" ng-if="loginErr">\r\n\t\t\t\t\t\t\t\t<i class="iconfont">&#xe601;</i><span ng-bind="loginErr"></span>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><em class="newIconfont">&#xe640;</em></label>\r\n\t\t\t\t\t\t\t\t<input class="login-input" type="text" id="keywords" name="keywords" placeholder="用户名/邮箱/手机号" autocomplete="off" ng-model="login.keywords" my-placeholder required autofocus/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><em class="newIconfont">&#xe6bb;</em></label>\r\n                        \t\t<input class="ng-hide">\r\n\t\t\t\t\t\t\t\t<input class="login-input" type="password" id="password" name="password"  placeholder="登录密码" autocomplete="off" ng-model="login.password" my-placeholder required/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear" ng-if="verifycode_show">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><i class="code"></i></label>\r\n\t\t\t\t\t\t\t\t<input class="login-input mr10 w100" maxlength="4" type="text" id="verifycode" name="verifycode" placeholder="验证码" autocomplete="off" ng-model="login.verifycode" ng-change="checkcode(login.verifycode);" my-placeholder required/>\r\n\t\t\t\t\t\t\t\t<span class="checkcode" ng-if="code">\r\n\t\t\t\t\t\t\t\t\t<em class="iconfont info-error" ng-if="!infoerror">&#xe601;</em>\r\n\t\t\t\t\t\t\t\t\t<em class="iconfont info-right" ng-if="infoerror">&#xe602;</em>\r\n\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<img class="code" src="common/public/verifycode/1" onclick="this.src=\'common/public/verifycode/\'+Math.random();"/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<input class="login-btn" type="submit" value="立即登录">\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="forget">\r\n\t\t\t\t\t\t\t\t<p><span><a href="/member/public/getPwd" target="_blank" title="忘记密码？"><img src="/assets/trust/style/css/dist/images/loginlock.png"></a></span><a class="new-reg" href="/common/member/reg"><em>没有账号？马上注册</a></p>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</form>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n</div>\r\n<script type="text/javascript">\r\ndiyou.use(\'users_login\',function(dy){dy.login(\'log_form\');});\r\n$(".login-input").focus(function(){\r\n\t$(this).siblings(\'.login-label\').find(\'.newIconfont\').css("color","#317ef3");\r\n});\r\n$(".login-input").blur(function(){\r\n\t$(this).siblings(\'.login-label\').find(\'.newIconfont\').css("color","initial");\r\n});\r\n</script>\r\n\r\n\t    \t<div id="mlayout_footer"></div>\r\n\t    </div>\r\n\t \t<div  style="width: 100%;">\r\n\t \t\t\r\n\r\n\r\n<!-- footer start -->\r\n<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">\r\n<div ng-controller="newfooterCtrl">\r\n<div class="footer">\r\n    <div class="footer-top">\r\n        <div class="conbox">\r\n            <ul class="fn-clear">\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat1.png" alt="">\r\n                    <h2>优质项目</h2>\r\n                    <p>小额分散更安全安心</p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat2.png" alt="">\r\n                    <h2>领先企业</h2>\r\n                    <p>消费金融二十强企业 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat3.png" alt="">\r\n                    <h2>国资控股</h2>\r\n                    <p>首都城投战略投资 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat4.png" alt="">\r\n                    <h2>消费金融</h2>\r\n                    <p>专注年轻人的消费金融 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat5.png" alt="">\r\n                    <h2>严格风控</h2>\r\n                    <p>大数据风控</p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat6.png" alt="">\r\n                    <h2>合规经营</h2>\r\n                    <p>合法合规稳健规范</p>\r\n                </li>\r\n            </ul>\r\n        </div>\r\n    </div>\r\n\r\n    <div class="footer-btm">\r\n        <div class="conbox fn-clear">\r\n            <div class="fl left">\r\n                <h2>400-810-6116</h2>\r\n                <p>服务时间：早8:00至晚22:00</p>\r\n                <div class="contact-icon">\r\n                </div>\r\n            </div>\r\n            <div class="fl center fn-clear">\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe626;</i>\r\n                        <span>关于智客</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">智客介绍</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">创始团队</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">专家顾问</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">联系我们</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe601;</i>\r\n                        <span>安全保障</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">用户协议</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">隐私条款</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">合作伙伴</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1">安全保障</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe607;</i>\r\n                        <span>帮助中心</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">支付说明</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">收费标准</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe62f;</i>\r\n                        <span>荣誉资质</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">招贤纳士</a></li>\r\n                </ul>\r\n            </div>\r\n            <div class="fl right">\r\n            </div>\r\n        </div>\r\n        <div class="conbox">\r\n            <p class="copyright"></p>\r\n            <p class="copyright"><a href="http://www.miitbeian.gov.cn" target="_blank"></a></p>\r\n        </div>\r\n    </div>\r\n</div>\r\n<div class="footer-links">\r\n    <div class="conbox fn-clear">\r\n        <div class="verification">\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri1.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri2.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri3.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri4.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri5.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri6.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri7.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri8.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri9.png" height="36" alt="">\r\n            </a>\r\n        </div>\r\n    </div>\r\n</div>\r\n\r\n</div>\r\n<!-- footer end -->\r\n\r\n<!-- 右侧联系我们 -->\r\n\r\n\r\n<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">\r\n<div class="side-menu" id="offside">\r\n    <ul>\r\n        <li class="offside offside-question">\r\n            <a class="helps" href="/help" target="_blank">\r\n                <div class="icon-w">\r\n                    <i class="newIconfont">&#xe645;</i>\r\n                    <div class="hide-text">帮助中心</div>\r\n                </div>\r\n            </a>\r\n        </li>\r\n        <li class="offside offside-contact">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe63f;</i>\r\n                <div class="hide-text">在线客服</div>\r\n            </div>\r\n            <div class="popup-box">\r\n                <div>\r\n                    <h4><i class="newIconfont">&#xe635;</i>在线QQ客服</h4>\r\n                    <ul>\r\n                        <li>官方QQ群1：<i>534932601</i></li>\r\n                        <li>官方VIP群1：<i>128041585</i></li>\r\n                    </ul>\r\n                </div>\r\n                <p class="triangle"></p>\r\n            </div>\r\n        </li>\r\n        <li class="offside offside-calculator">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe69d;</i>\r\n                <div class="hide-text">收益计算</div>\r\n            </div>\r\n            <div class="popup-box">\r\n                <div>\r\n                    <h4>计算器</h4>\r\n                    <form id="right-tool-form" method="post" novalidate="novalidate" class="ng-pristine ng-valid">\r\n                        <dl>\r\n                            <dd>\r\n                                <div class="ui-label">借款金额</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="account">\r\n                                    <em>元</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">年利率</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="lilv">\r\n                                    <em>%</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">借款期限</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="times">\r\n                                    <em>月</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">还款方式</div>\r\n                                <div class="ui-select">\r\n                                    <input type="hidden" name="type" value="month">\r\n                                    <div class="select-value"><span>等额本息</span><em></em>\r\n                                    </div>\r\n                                    <div class="select-list">\r\n                                        <ul id="borrow-style-select">\r\n                                            <li data-val="month">等额本息</li>\r\n                                            <!--  <li data-val="season">按季还款</li>  -->\r\n                                            <li data-val="end">到期还本还息</li>\r\n                                            <li data-val="endmonth">按月付息</li>\r\n                                            <!-- <li data-val="endmonths">按月付息到期还本</li>  -->\r\n                                        </ul>\r\n                                    </div>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">&nbsp;</div>\r\n                                <input class="ui-sub" type="submit" value="开始计算">\r\n                            </dd>\r\n                        </dl>\r\n                    </form>\r\n\r\n                    <div class="result-box" id="compileRightResult">\r\n                        <h4>计算结果</h4>\r\n                        <ul>\r\n                            <li>\r\n                                <label class="ui-label">每个月将偿还：</label>\r\n                                <span class="ui-input">\r\n                                    <em class="monthAcc">0.00</em> 元\r\n                                </span>\r\n                            </li>\r\n                            <li>\r\n                                <label class="ui-label">月利率：</label>\r\n                                <span class="ui-input">\r\n                                    <i class="monthAp">0.00</i> %\r\n                                </span>\r\n                            </li>\r\n                            <li>\r\n                                <label class="ui-label">还款本息总额：</label>\r\n                                <span class="ui-input">\r\n                                    <i class="monthIn">0.00</i> 元\r\n                                </span>\r\n                            </li>\r\n                        </ul>\r\n                    </div>\r\n                </div>\r\n                <p class="triangle triangle1" style="top: -200px;"></p>\r\n            </div>\r\n        </li>\r\n        <li class="offside return-top">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe7d2;</i>\r\n                <div class="hide-text">返回顶部</div>\r\n            </div>\r\n        </li>\r\n    </ul>\r\n</div>\r\n<script type="text/javascript">\r\n\tdiyou.use(\'offside\', function(dy) {\r\n\t    dy.offside(\'.return-top\');\r\n\t});\r\n\tdiyou.use(\'tool\', function(d) {\r\n\t    d.tool(\'right-tool-form\',\'compileRightResult\');\r\n\t});\r\n</script>\r\n\r\n<!— WPA Button Begin —>\r\n<!-- <script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA3Njk0NF8zNTcxNTRfNDAwNjExODAwMF8"></script> -->\r\n<!— WPA Button END —>\r\n\r\n\r\n<!-- 结束 -->\r\n<script type="text/javascript">\r\ndiyou.use(\'footer\', function(f) {\r\n    f.aboutus();\r\n})\r\ndiyou.on(\'error\', function(module) {\r\n    if (module.status != 5) {\r\n        console.error(\'diyou error: \', module);\r\n    }\r\n});\r\n//Step2: bootstrap youself\r\ndiyou.use([\'app\'], function(app) {\r\n    angular.bootstrap(document, [\'app\']);\r\n});\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.closePop();\r\n});\r\n</script>\r\n<div style="display:none;">\r\n    <script type="text/javascript">\r\n    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");\r\n    document.write(unescape("%3Cspan id=\'cnzz_stat_icon_1253656941\'%3E%3C/span%3E%3Cscript src=\'" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1253656941\' type=\'text/javascript\'%3E%3C/script%3E"));\r\n    </script>\r\n</div>\r\n<script>\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.hoverImg();\r\n    fn.hoverBotImg();\r\n    fn.clickMore();\r\n});\r\n</script>\r\n\r\n\t\t</div>\r\n\t</body>\r\n</html>\r\n'
+2022-07-22 00:20:39,296 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:41,144 INFO [test02_approve_trust.py(test02_approve_status:44)] - 接口执行结果为: 
+
+
+<!DOCTYPE html>
+<html id="ng-app">
+	<head>
+		<base href="http://user-p2p-test.itheima.net:80/">
+
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	    <meta http-equiv="pragma" content="no-cache" />
+	    <meta http-equiv="cache-control" content="no-cache" />
+	    <meta http-equiv="expires" content="0" />
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	    <meta name="keywords" content="第三方托管"/>
+		<meta name="description" content="传智播客" />
+
+		<title>传智播客</title>
+
+	    <link href="assets/trust/style/css/dist/iconfont.css" type="text/css" rel="stylesheet" />
+	    <link href="assets/trust/style/css/dist/style.css" type="text/css" rel="stylesheet" />
+	    <link href="assets/trust/style/css/dist/extend.css" type="text/css" rel="stylesheet" />
+	 	<link href="http://imgv-p2p-test.itheima.net/system/config/20191217/c340f991-8b08-4f00-9e83-fc7aed2e3c66.png" rel="shortcut icon" type="image/x-icon" />
+	 	<script src="assets/trust/js/src/diyou.js"></script>
+	  	<script src="assets/trust/js/src/jquery-1.8.2.min.js"></script>
+	    <script src="assets/trust/js/src/json2.js"></script>
+	    <script src="assets/trust/js/src/angular.min.js"></script>
+	    <script src="assets/trust/js/src/angular-ngSea.js"></script>
+	    <script src="assets/trust/js/src/angular-paging.js"></script>
+	     <script>
+	    	var THEME_URL = "assets/trust";
+	        var	layerUrl = THEME_URL + "/js/src/plugins/layer/";
+	    </script>
+	    <script src="assets/trust/js/src/base.js"></script>
+	</head>
+
+	<body ng-cloak class="ng-cloak" style="background: #f5f5f5;">
+	    <div  style="width: 100%;" ng-controller="msgNumCtrl">
+	    	<div class="header">
+	    		
+
+
+<div class="header fn-clear">
+    <div class="header-top">
+        <div class="conbox fn-clear">
+            <div class="fl">
+                <span class="newIconfont">&#xe621;</span>
+                <span class="tel">400-810-6116</span>
+            </div>
+            <div class="sub-nav fr">
+   
+   
+              
+                <li class="regFinish"><a href="common/member/login" class="login">登录</a></li>
+                <li class="regFinish"><a href="common/member/reg" class="reg">有奖注册</a></li>
+         
+                              
+             
+               	<li class="last regFinish2" style="display:none;">
+                	<span class="user">你好，<a class="a-link1" href="member/member/center"></a></span>
+                		站内信(<a class="msg" href="member/message/index" >{{msgNum}}</a>)
+                    <a class="logout" href="member/member/logout">退出</a>
+                </li>
+                
+                
+                <li><a href="common/member/reg" class="help-center">帮助中心</a></li>
+                
+            </div>
+        </div>
+    </div>
+    <div class="header-cont">
+        <div class="conbox fn-clear">
+            <!-- <a class="logo" href="/"><img src="assets/trust/images/index/logo.png" alt="智客在线"></a> -->
+            
+				
+					<a class="logo" href="/"><img src="http://imgv-p2p-test.itheima.net/system/config/20191217/6f888441-c505-4a7c-85d2-ab2a29f49805.png" alt="传智播客" /></a>
+				
+				
+			
+            
+            
+            <div class="fr" style="font-size: 14px;line-height: 30px;margin-top:50px;color:#999;">
+
+		        <div class="enter-box fr regFinish" ng-if="system.title=='用户注册'">
+		            已有账号？<a class="a-link1" href="/common/member/login" style="color:#317ef3;font-style: underline;">立即登录</a>
+		        </div>
+	         
+	         
+	        
+	        	<div class="enter-box fr regFinish2" style="display:none;"><a class="a-link f-s14" href="/member/member/center" style="color:#317ef3;">返回用户中心&nbsp;<i class="iconfont">&#xe63f;</i></a></div>
+	        
+           </div>
+        </div>
+    </div>
+</div>
+<script>
+var login_error = "";
+
+//var isLogin = $.cookie('isLogin');
+$(function(){
+	var isLogin = sessionStorage.getItem('isLogin');
+	var phone = sessionStorage.getItem('phone');
+	console.log("isLogin"+ isLogin);
+	console.log("phone"+ phone);
+	if(isLogin != 1){                        		 	
+		$(".regFinish").show();
+	}else{
+		$(".regFinish2").show();
+		$(".regFinish").hide();	
+		$(".a-link1").text(phone);
+		sessionStorage.clear();
+// 		$(".msg").text(0);                        			
+   }
+});
+
+</script>
+<script>
+
+diyou.use('indexEffect', function (fn) {
+    fn.viewWeixin();
+});
+</script>
+
+
+	    	</div>
+	    	
+<!-- <input type="hidden" ng-model="system.title" ng-init="system.title='用户登录'"> -->
+<div  style="width: 100%;">
+<div class="login-bg" ng-controller="loginCtrl">
+	<div class="conbox">
+		<div class="enter-login fn-clear" style="background: none;">
+			<div class="login-box bor-e2 fr">
+				<div class="login-form">
+					<div class="login-tit">用户登录</div>
+					<form name="formLogin" id="login_form" role="form" ng-submit="submit();" novalidate>
+						<div class="login-cont">
+							<div id="err" class="login-error" ng-if="loginErr">
+								<i class="iconfont">&#xe601;</i><span ng-bind="loginErr"></span>
+							</div>
+							<div class="login-item fn-clear">
+								<label for="" class="login-label"><em class="newIconfont">&#xe640;</em></label>
+								<input class="login-input" type="text" id="keywords" name="keywords" placeholder="用户名/邮箱/手机号" autocomplete="off" ng-model="login.keywords" my-placeholder required autofocus/>
+							</div>
+							<div class="login-item fn-clear">
+								<label for="" class="login-label"><em class="newIconfont">&#xe6bb;</em></label>
+                        		<input class="ng-hide">
+								<input class="login-input" type="password" id="password" name="password"  placeholder="登录密码" autocomplete="off" ng-model="login.password" my-placeholder required/>
+							</div>
+							<div class="login-item fn-clear" ng-if="verifycode_show">
+								<label for="" class="login-label"><i class="code"></i></label>
+								<input class="login-input mr10 w100" maxlength="4" type="text" id="verifycode" name="verifycode" placeholder="验证码" autocomplete="off" ng-model="login.verifycode" ng-change="checkcode(login.verifycode);" my-placeholder required/>
+								<span class="checkcode" ng-if="code">
+									<em class="iconfont info-error" ng-if="!infoerror">&#xe601;</em>
+									<em class="iconfont info-right" ng-if="infoerror">&#xe602;</em>
+								</span>
+								<img class="code" src="common/public/verifycode/1" onclick="this.src='common/public/verifycode/'+Math.random();"/>
+							</div>
+							<div class="login-item fn-clear">
+								<input class="login-btn" type="submit" value="立即登录">
+							</div>
+							<div class="forget">
+								<p><span><a href="/member/public/getPwd" target="_blank" title="忘记密码？"><img src="/assets/trust/style/css/dist/images/loginlock.png"></a></span><a class="new-reg" href="/common/member/reg"><em>没有账号？马上注册</a></p>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<script type="text/javascript">
+diyou.use('users_login',function(dy){dy.login('log_form');});
+$(".login-input").focus(function(){
+	$(this).siblings('.login-label').find('.newIconfont').css("color","#317ef3");
+});
+$(".login-input").blur(function(){
+	$(this).siblings('.login-label').find('.newIconfont').css("color","initial");
+});
+</script>
+
+	    	<div id="mlayout_footer"></div>
+	    </div>
+	 	<div  style="width: 100%;">
+	 		
+
+
+<!-- footer start -->
+<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">
+<div ng-controller="newfooterCtrl">
+<div class="footer">
+    <div class="footer-top">
+        <div class="conbox">
+            <ul class="fn-clear">
+                <li>
+                    <img src="assets/trust/images/index/feat1.png" alt="">
+                    <h2>优质项目</h2>
+                    <p>小额分散更安全安心</p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat2.png" alt="">
+                    <h2>领先企业</h2>
+                    <p>消费金融二十强企业 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat3.png" alt="">
+                    <h2>国资控股</h2>
+                    <p>首都城投战略投资 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat4.png" alt="">
+                    <h2>消费金融</h2>
+                    <p>专注年轻人的消费金融 </p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat5.png" alt="">
+                    <h2>严格风控</h2>
+                    <p>大数据风控</p>
+                </li>
+                <li>
+                    <img src="assets/trust/images/index/feat6.png" alt="">
+                    <h2>合规经营</h2>
+                    <p>合法合规稳健规范</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer-btm">
+        <div class="conbox fn-clear">
+            <div class="fl left">
+                <h2>400-810-6116</h2>
+                <p>服务时间：早8:00至晚22:00</p>
+                <div class="contact-icon">
+                </div>
+            </div>
+            <div class="fl center fn-clear">
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe626;</i>
+                        <span>关于智客</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">智客介绍</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">创始团队</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">专家顾问</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">联系我们</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe601;</i>
+                        <span>安全保障</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">用户协议</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">隐私条款</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">合作伙伴</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1">安全保障</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe607;</i>
+                        <span>帮助中心</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">支付说明</a></li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">收费标准</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <i class="newIconfont">&#xe62f;</i>
+                        <span>荣誉资质</span>
+                    </li>
+                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">招贤纳士</a></li>
+                </ul>
+            </div>
+            <div class="fl right">
+            </div>
+        </div>
+        <div class="conbox">
+            <p class="copyright"></p>
+            <p class="copyright"><a href="http://www.miitbeian.gov.cn" target="_blank"></a></p>
+        </div>
+    </div>
+</div>
+<div class="footer-links">
+    <div class="conbox fn-clear">
+        <div class="verification">
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri1.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri2.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri3.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri4.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri5.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri6.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri7.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri8.png" height="36" alt="">
+            </a>
+            <a href="javascript:;">
+                <img src="assets/trust/images/index/veri9.png" height="36" alt="">
+            </a>
+        </div>
+    </div>
+</div>
+
+</div>
+<!-- footer end -->
+
+<!-- 右侧联系我们 -->
+
+
+<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">
+<div class="side-menu" id="offside">
+    <ul>
+        <li class="offside offside-question">
+            <a class="helps" href="/help" target="_blank">
+                <div class="icon-w">
+                    <i class="newIconfont">&#xe645;</i>
+                    <div class="hide-text">帮助中心</div>
+                </div>
+            </a>
+        </li>
+        <li class="offside offside-contact">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe63f;</i>
+                <div class="hide-text">在线客服</div>
+            </div>
+            <div class="popup-box">
+                <div>
+                    <h4><i class="newIconfont">&#xe635;</i>在线QQ客服</h4>
+                    <ul>
+                        <li>官方QQ群1：<i>534932601</i></li>
+                        <li>官方VIP群1：<i>128041585</i></li>
+                    </ul>
+                </div>
+                <p class="triangle"></p>
+            </div>
+        </li>
+        <li class="offside offside-calculator">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe69d;</i>
+                <div class="hide-text">收益计算</div>
+            </div>
+            <div class="popup-box">
+                <div>
+                    <h4>计算器</h4>
+                    <form id="right-tool-form" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
+                        <dl>
+                            <dd>
+                                <div class="ui-label">借款金额</div>
+                                <div class="ui-input">
+                                    <input type="text" name="account">
+                                    <em>元</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">年利率</div>
+                                <div class="ui-input">
+                                    <input type="text" name="lilv">
+                                    <em>%</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">借款期限</div>
+                                <div class="ui-input">
+                                    <input type="text" name="times">
+                                    <em>月</em>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">还款方式</div>
+                                <div class="ui-select">
+                                    <input type="hidden" name="type" value="month">
+                                    <div class="select-value"><span>等额本息</span><em></em>
+                                    </div>
+                                    <div class="select-list">
+                                        <ul id="borrow-style-select">
+                                            <li data-val="month">等额本息</li>
+                                            <!--  <li data-val="season">按季还款</li>  -->
+                                            <li data-val="end">到期还本还息</li>
+                                            <li data-val="endmonth">按月付息</li>
+                                            <!-- <li data-val="endmonths">按月付息到期还本</li>  -->
+                                        </ul>
+                                    </div>
+                                </div>
+                            </dd>
+                            <dd>
+                                <div class="ui-label">&nbsp;</div>
+                                <input class="ui-sub" type="submit" value="开始计算">
+                            </dd>
+                        </dl>
+                    </form>
+
+                    <div class="result-box" id="compileRightResult">
+                        <h4>计算结果</h4>
+                        <ul>
+                            <li>
+                                <label class="ui-label">每个月将偿还：</label>
+                                <span class="ui-input">
+                                    <em class="monthAcc">0.00</em> 元
+                                </span>
+                            </li>
+                            <li>
+                                <label class="ui-label">月利率：</label>
+                                <span class="ui-input">
+                                    <i class="monthAp">0.00</i> %
+                                </span>
+                            </li>
+                            <li>
+                                <label class="ui-label">还款本息总额：</label>
+                                <span class="ui-input">
+                                    <i class="monthIn">0.00</i> 元
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="triangle triangle1" style="top: -200px;"></p>
+            </div>
+        </li>
+        <li class="offside return-top">
+            <div class="icon-w">
+                <i class="newIconfont">&#xe7d2;</i>
+                <div class="hide-text">返回顶部</div>
+            </div>
+        </li>
+    </ul>
+</div>
+<script type="text/javascript">
+	diyou.use('offside', function(dy) {
+	    dy.offside('.return-top');
+	});
+	diyou.use('tool', function(d) {
+	    d.tool('right-tool-form','compileRightResult');
+	});
+</script>
+
+<!— WPA Button Begin —>
+<!-- <script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA3Njk0NF8zNTcxNTRfNDAwNjExODAwMF8"></script> -->
+<!— WPA Button END —>
+
+
+<!-- 结束 -->
+<script type="text/javascript">
+diyou.use('footer', function(f) {
+    f.aboutus();
+})
+diyou.on('error', function(module) {
+    if (module.status != 5) {
+        console.error('diyou error: ', module);
+    }
+});
+//Step2: bootstrap youself
+diyou.use(['app'], function(app) {
+    angular.bootstrap(document, ['app']);
+});
+diyou.use('indexEffect', function (fn) {
+    fn.closePop();
+});
+</script>
+<div style="display:none;">
+    <script type="text/javascript">
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_1253656941'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1253656941' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+</div>
+<script>
+diyou.use('indexEffect', function (fn) {
+    fn.hoverImg();
+    fn.hoverBotImg();
+    fn.clickMore();
+});
+</script>
+
+		</div>
+	</body>
+</html>
+
+2022-07-22 00:20:41,144 ERROR [test02_approve_trust.py(test02_approve_status:50)] - 断言错误！原因: '华' not found in '\r\n\r\n\r\n<!DOCTYPE html>\r\n<html id="ng-app">\r\n\t<head>\r\n\t\t<base href="http://user-p2p-test.itheima.net:80/">\r\n\r\n\t    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n\t    <meta http-equiv="pragma" content="no-cache" />\r\n\t    <meta http-equiv="cache-control" content="no-cache" />\r\n\t    <meta http-equiv="expires" content="0" />\r\n\t    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\r\n\t    <meta name="keywords" content="第三方托管"/>\r\n\t\t<meta name="description" content="传智播客" />\r\n\r\n\t\t<title>传智播客</title>\r\n\r\n\t    <link href="assets/trust/style/css/dist/iconfont.css" type="text/css" rel="stylesheet" />\r\n\t    <link href="assets/trust/style/css/dist/style.css" type="text/css" rel="stylesheet" />\r\n\t    <link href="assets/trust/style/css/dist/extend.css" type="text/css" rel="stylesheet" />\r\n\t \t<link href="http://imgv-p2p-test.itheima.net/system/config/20191217/c340f991-8b08-4f00-9e83-fc7aed2e3c66.png" rel="shortcut icon" type="image/x-icon" />\r\n\t \t<script src="assets/trust/js/src/diyou.js"></script>\r\n\t  \t<script src="assets/trust/js/src/jquery-1.8.2.min.js"></script>\r\n\t    <script src="assets/trust/js/src/json2.js"></script>\r\n\t    <script src="assets/trust/js/src/angular.min.js"></script>\r\n\t    <script src="assets/trust/js/src/angular-ngSea.js"></script>\r\n\t    <script src="assets/trust/js/src/angular-paging.js"></script>\r\n\t     <script>\r\n\t    \tvar THEME_URL = "assets/trust";\r\n\t        var\tlayerUrl = THEME_URL + "/js/src/plugins/layer/";\r\n\t    </script>\r\n\t    <script src="assets/trust/js/src/base.js"></script>\r\n\t</head>\r\n\r\n\t<body ng-cloak class="ng-cloak" style="background: #f5f5f5;">\r\n\t    <div  style="width: 100%;" ng-controller="msgNumCtrl">\r\n\t    \t<div class="header">\r\n\t    \t\t\r\n\r\n\r\n<div class="header fn-clear">\r\n    <div class="header-top">\r\n        <div class="conbox fn-clear">\r\n            <div class="fl">\r\n                <span class="newIconfont">&#xe621;</span>\r\n                <span class="tel">400-810-6116</span>\r\n            </div>\r\n            <div class="sub-nav fr">\r\n   \r\n   \r\n              \r\n                <li class="regFinish"><a href="common/member/login" class="login">登录</a></li>\r\n                <li class="regFinish"><a href="common/member/reg" class="reg">有奖注册</a></li>\r\n         \r\n                              \r\n             \r\n               \t<li class="last regFinish2" style="display:none;">\r\n                \t<span class="user">你好，<a class="a-link1" href="member/member/center"></a></span>\r\n                \t\t站内信(<a class="msg" href="member/message/index" >{{msgNum}}</a>)\r\n                    <a class="logout" href="member/member/logout">退出</a>\r\n                </li>\r\n                \r\n                \r\n                <li><a href="common/member/reg" class="help-center">帮助中心</a></li>\r\n                \r\n            </div>\r\n        </div>\r\n    </div>\r\n    <div class="header-cont">\r\n        <div class="conbox fn-clear">\r\n            <!-- <a class="logo" href="/"><img src="assets/trust/images/index/logo.png" alt="智客在线"></a> -->\r\n            \r\n\t\t\t\t\r\n\t\t\t\t\t<a class="logo" href="/"><img src="http://imgv-p2p-test.itheima.net/system/config/20191217/6f888441-c505-4a7c-85d2-ab2a29f49805.png" alt="传智播客" /></a>\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n            \r\n            \r\n            <div class="fr" style="font-size: 14px;line-height: 30px;margin-top:50px;color:#999;">\r\n\r\n\t\t        <div class="enter-box fr regFinish" ng-if="system.title==\'用户注册\'">\r\n\t\t            已有账号？<a class="a-link1" href="/common/member/login" style="color:#317ef3;font-style: underline;">立即登录</a>\r\n\t\t        </div>\r\n\t         \r\n\t         \r\n\t        \r\n\t        \t<div class="enter-box fr regFinish2" style="display:none;"><a class="a-link f-s14" href="/member/member/center" style="color:#317ef3;">返回用户中心&nbsp;<i class="iconfont">&#xe63f;</i></a></div>\r\n\t        \r\n           </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n<script>\r\nvar login_error = "";\r\n\r\n//var isLogin = $.cookie(\'isLogin\');\r\n$(function(){\r\n\tvar isLogin = sessionStorage.getItem(\'isLogin\');\r\n\tvar phone = sessionStorage.getItem(\'phone\');\r\n\tconsole.log("isLogin"+ isLogin);\r\n\tconsole.log("phone"+ phone);\r\n\tif(isLogin != 1){                        \t\t \t\r\n\t\t$(".regFinish").show();\r\n\t}else{\r\n\t\t$(".regFinish2").show();\r\n\t\t$(".regFinish").hide();\t\r\n\t\t$(".a-link1").text(phone);\r\n\t\tsessionStorage.clear();\r\n// \t\t$(".msg").text(0);                        \t\t\t\r\n   }\r\n});\r\n\r\n</script>\r\n<script>\r\n\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.viewWeixin();\r\n});\r\n</script>\r\n\r\n\r\n\t    \t</div>\r\n\t    \t\r\n<!-- <input type="hidden" ng-model="system.title" ng-init="system.title=\'用户登录\'"> -->\r\n<div  style="width: 100%;">\r\n<div class="login-bg" ng-controller="loginCtrl">\r\n\t<div class="conbox">\r\n\t\t<div class="enter-login fn-clear" style="background: none;">\r\n\t\t\t<div class="login-box bor-e2 fr">\r\n\t\t\t\t<div class="login-form">\r\n\t\t\t\t\t<div class="login-tit">用户登录</div>\r\n\t\t\t\t\t<form name="formLogin" id="login_form" role="form" ng-submit="submit();" novalidate>\r\n\t\t\t\t\t\t<div class="login-cont">\r\n\t\t\t\t\t\t\t<div id="err" class="login-error" ng-if="loginErr">\r\n\t\t\t\t\t\t\t\t<i class="iconfont">&#xe601;</i><span ng-bind="loginErr"></span>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><em class="newIconfont">&#xe640;</em></label>\r\n\t\t\t\t\t\t\t\t<input class="login-input" type="text" id="keywords" name="keywords" placeholder="用户名/邮箱/手机号" autocomplete="off" ng-model="login.keywords" my-placeholder required autofocus/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><em class="newIconfont">&#xe6bb;</em></label>\r\n                        \t\t<input class="ng-hide">\r\n\t\t\t\t\t\t\t\t<input class="login-input" type="password" id="password" name="password"  placeholder="登录密码" autocomplete="off" ng-model="login.password" my-placeholder required/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear" ng-if="verifycode_show">\r\n\t\t\t\t\t\t\t\t<label for="" class="login-label"><i class="code"></i></label>\r\n\t\t\t\t\t\t\t\t<input class="login-input mr10 w100" maxlength="4" type="text" id="verifycode" name="verifycode" placeholder="验证码" autocomplete="off" ng-model="login.verifycode" ng-change="checkcode(login.verifycode);" my-placeholder required/>\r\n\t\t\t\t\t\t\t\t<span class="checkcode" ng-if="code">\r\n\t\t\t\t\t\t\t\t\t<em class="iconfont info-error" ng-if="!infoerror">&#xe601;</em>\r\n\t\t\t\t\t\t\t\t\t<em class="iconfont info-right" ng-if="infoerror">&#xe602;</em>\r\n\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<img class="code" src="common/public/verifycode/1" onclick="this.src=\'common/public/verifycode/\'+Math.random();"/>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="login-item fn-clear">\r\n\t\t\t\t\t\t\t\t<input class="login-btn" type="submit" value="立即登录">\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class="forget">\r\n\t\t\t\t\t\t\t\t<p><span><a href="/member/public/getPwd" target="_blank" title="忘记密码？"><img src="/assets/trust/style/css/dist/images/loginlock.png"></a></span><a class="new-reg" href="/common/member/reg"><em>没有账号？马上注册</a></p>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</form>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n</div>\r\n<script type="text/javascript">\r\ndiyou.use(\'users_login\',function(dy){dy.login(\'log_form\');});\r\n$(".login-input").focus(function(){\r\n\t$(this).siblings(\'.login-label\').find(\'.newIconfont\').css("color","#317ef3");\r\n});\r\n$(".login-input").blur(function(){\r\n\t$(this).siblings(\'.login-label\').find(\'.newIconfont\').css("color","initial");\r\n});\r\n</script>\r\n\r\n\t    \t<div id="mlayout_footer"></div>\r\n\t    </div>\r\n\t \t<div  style="width: 100%;">\r\n\t \t\t\r\n\r\n\r\n<!-- footer start -->\r\n<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">\r\n<div ng-controller="newfooterCtrl">\r\n<div class="footer">\r\n    <div class="footer-top">\r\n        <div class="conbox">\r\n            <ul class="fn-clear">\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat1.png" alt="">\r\n                    <h2>优质项目</h2>\r\n                    <p>小额分散更安全安心</p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat2.png" alt="">\r\n                    <h2>领先企业</h2>\r\n                    <p>消费金融二十强企业 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat3.png" alt="">\r\n                    <h2>国资控股</h2>\r\n                    <p>首都城投战略投资 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat4.png" alt="">\r\n                    <h2>消费金融</h2>\r\n                    <p>专注年轻人的消费金融 </p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat5.png" alt="">\r\n                    <h2>严格风控</h2>\r\n                    <p>大数据风控</p>\r\n                </li>\r\n                <li>\r\n                    <img src="assets/trust/images/index/feat6.png" alt="">\r\n                    <h2>合规经营</h2>\r\n                    <p>合法合规稳健规范</p>\r\n                </li>\r\n            </ul>\r\n        </div>\r\n    </div>\r\n\r\n    <div class="footer-btm">\r\n        <div class="conbox fn-clear">\r\n            <div class="fl left">\r\n                <h2>400-810-6116</h2>\r\n                <p>服务时间：早8:00至晚22:00</p>\r\n                <div class="contact-icon">\r\n                </div>\r\n            </div>\r\n            <div class="fl center fn-clear">\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe626;</i>\r\n                        <span>关于智客</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">智客介绍</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">创始团队</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">专家顾问</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">联系我们</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe601;</i>\r\n                        <span>安全保障</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">用户协议</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">隐私条款</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">合作伙伴</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1">安全保障</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe607;</i>\r\n                        <span>帮助中心</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">支付说明</a></li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">收费标准</a></li>\r\n                </ul>\r\n                <ul>\r\n                    <li>\r\n                        <i class="newIconfont">&#xe62f;</i>\r\n                        <span>荣誉资质</span>\r\n                    </li>\r\n                    <li><a href="http://user-p2p-test.itheima.net/content/articles/getDetail?id=1" target="_blank">招贤纳士</a></li>\r\n                </ul>\r\n            </div>\r\n            <div class="fl right">\r\n            </div>\r\n        </div>\r\n        <div class="conbox">\r\n            <p class="copyright"></p>\r\n            <p class="copyright"><a href="http://www.miitbeian.gov.cn" target="_blank"></a></p>\r\n        </div>\r\n    </div>\r\n</div>\r\n<div class="footer-links">\r\n    <div class="conbox fn-clear">\r\n        <div class="verification">\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri1.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri2.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri3.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri4.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri5.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri6.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri7.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri8.png" height="36" alt="">\r\n            </a>\r\n            <a href="javascript:;">\r\n                <img src="assets/trust/images/index/veri9.png" height="36" alt="">\r\n            </a>\r\n        </div>\r\n    </div>\r\n</div>\r\n\r\n</div>\r\n<!-- footer end -->\r\n\r\n<!-- 右侧联系我们 -->\r\n\r\n\r\n<link rel="stylesheet" href="assets/trust/style/css/dist/index.css">\r\n<div class="side-menu" id="offside">\r\n    <ul>\r\n        <li class="offside offside-question">\r\n            <a class="helps" href="/help" target="_blank">\r\n                <div class="icon-w">\r\n                    <i class="newIconfont">&#xe645;</i>\r\n                    <div class="hide-text">帮助中心</div>\r\n                </div>\r\n            </a>\r\n        </li>\r\n        <li class="offside offside-contact">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe63f;</i>\r\n                <div class="hide-text">在线客服</div>\r\n            </div>\r\n            <div class="popup-box">\r\n                <div>\r\n                    <h4><i class="newIconfont">&#xe635;</i>在线QQ客服</h4>\r\n                    <ul>\r\n                        <li>官方QQ群1：<i>534932601</i></li>\r\n                        <li>官方VIP群1：<i>128041585</i></li>\r\n                    </ul>\r\n                </div>\r\n                <p class="triangle"></p>\r\n            </div>\r\n        </li>\r\n        <li class="offside offside-calculator">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe69d;</i>\r\n                <div class="hide-text">收益计算</div>\r\n            </div>\r\n            <div class="popup-box">\r\n                <div>\r\n                    <h4>计算器</h4>\r\n                    <form id="right-tool-form" method="post" novalidate="novalidate" class="ng-pristine ng-valid">\r\n                        <dl>\r\n                            <dd>\r\n                                <div class="ui-label">借款金额</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="account">\r\n                                    <em>元</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">年利率</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="lilv">\r\n                                    <em>%</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">借款期限</div>\r\n                                <div class="ui-input">\r\n                                    <input type="text" name="times">\r\n                                    <em>月</em>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">还款方式</div>\r\n                                <div class="ui-select">\r\n                                    <input type="hidden" name="type" value="month">\r\n                                    <div class="select-value"><span>等额本息</span><em></em>\r\n                                    </div>\r\n                                    <div class="select-list">\r\n                                        <ul id="borrow-style-select">\r\n                                            <li data-val="month">等额本息</li>\r\n                                            <!--  <li data-val="season">按季还款</li>  -->\r\n                                            <li data-val="end">到期还本还息</li>\r\n                                            <li data-val="endmonth">按月付息</li>\r\n                                            <!-- <li data-val="endmonths">按月付息到期还本</li>  -->\r\n                                        </ul>\r\n                                    </div>\r\n                                </div>\r\n                            </dd>\r\n                            <dd>\r\n                                <div class="ui-label">&nbsp;</div>\r\n                                <input class="ui-sub" type="submit" value="开始计算">\r\n                            </dd>\r\n                        </dl>\r\n                    </form>\r\n\r\n                    <div class="result-box" id="compileRightResult">\r\n                        <h4>计算结果</h4>\r\n                        <ul>\r\n                            <li>\r\n                                <label class="ui-label">每个月将偿还：</label>\r\n                                <span class="ui-input">\r\n                                    <em class="monthAcc">0.00</em> 元\r\n                                </span>\r\n                            </li>\r\n                            <li>\r\n                                <label class="ui-label">月利率：</label>\r\n                                <span class="ui-input">\r\n                                    <i class="monthAp">0.00</i> %\r\n                                </span>\r\n                            </li>\r\n                            <li>\r\n                                <label class="ui-label">还款本息总额：</label>\r\n                                <span class="ui-input">\r\n                                    <i class="monthIn">0.00</i> 元\r\n                                </span>\r\n                            </li>\r\n                        </ul>\r\n                    </div>\r\n                </div>\r\n                <p class="triangle triangle1" style="top: -200px;"></p>\r\n            </div>\r\n        </li>\r\n        <li class="offside return-top">\r\n            <div class="icon-w">\r\n                <i class="newIconfont">&#xe7d2;</i>\r\n                <div class="hide-text">返回顶部</div>\r\n            </div>\r\n        </li>\r\n    </ul>\r\n</div>\r\n<script type="text/javascript">\r\n\tdiyou.use(\'offside\', function(dy) {\r\n\t    dy.offside(\'.return-top\');\r\n\t});\r\n\tdiyou.use(\'tool\', function(d) {\r\n\t    d.tool(\'right-tool-form\',\'compileRightResult\');\r\n\t});\r\n</script>\r\n\r\n<!— WPA Button Begin —>\r\n<!-- <script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA3Njk0NF8zNTcxNTRfNDAwNjExODAwMF8"></script> -->\r\n<!— WPA Button END —>\r\n\r\n\r\n<!-- 结束 -->\r\n<script type="text/javascript">\r\ndiyou.use(\'footer\', function(f) {\r\n    f.aboutus();\r\n})\r\ndiyou.on(\'error\', function(module) {\r\n    if (module.status != 5) {\r\n        console.error(\'diyou error: \', module);\r\n    }\r\n});\r\n//Step2: bootstrap youself\r\ndiyou.use([\'app\'], function(app) {\r\n    angular.bootstrap(document, [\'app\']);\r\n});\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.closePop();\r\n});\r\n</script>\r\n<div style="display:none;">\r\n    <script type="text/javascript">\r\n    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");\r\n    document.write(unescape("%3Cspan id=\'cnzz_stat_icon_1253656941\'%3E%3C/span%3E%3Cscript src=\'" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1253656941\' type=\'text/javascript\'%3E%3C/script%3E"));\r\n    </script>\r\n</div>\r\n<script>\r\ndiyou.use(\'indexEffect\', function (fn) {\r\n    fn.hoverImg();\r\n    fn.hoverBotImg();\r\n    fn.clickMore();\r\n});\r\n</script>\r\n\r\n\t\t</div>\r\n\t</body>\r\n</html>\r\n'
+2022-07-22 00:20:41,258 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:43,113 ERROR [test02_approve_trust.py(test03_trust:74)] - 断言错误！原因: Expecting value: line 4 column 1 (char 6)
+2022-07-22 00:20:43,116 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:44,157 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 200
+2022-07-22 00:20:44,157 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:20:44,158 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:45,225 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 200
+2022-07-22 00:20:45,225 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:20:45,226 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:46,278 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 404
+2022-07-22 00:20:46,278 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:20:46,278 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:47,322 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 400
+2022-07-22 00:20:47,322 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:20:47,322 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:49,624 ERROR [test02_approve_trust.py(test05_recharge:120)] - 断言错误！原因: Expecting value: line 4 column 1 (char 6)
+2022-07-22 00:20:49,626 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:20:51,756 ERROR [test02_approve_trust.py(test05_recharge:120)] - 断言错误！原因: Expecting value: line 4 column 1 (char 6)
+2022-07-22 00:22:58,187 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:22:59,329 INFO [test02_approve_trust.py(test01_approve:29)] - 接口执行结果为: {"status":200,"data":{"card_id":"350****237","realname":"华**"},"description":"提交成功!"}
+2022-07-22 00:22:59,329 INFO [test02_approve_trust.py(test01_approve:32)] - 断言通过！
+2022-07-22 00:22:59,330 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:23:00,446 INFO [test02_approve_trust.py(test02_approve_status:44)] - 接口执行结果为: {"is_email_open":"-1","lastlogin_time":"1658415179","group_status":"","is_auth_user":"-1","is_realname_open":"2","is_corp":"-1","business_license":"","realname_remark":"Trust register notify","card_id":"350****237","realname":"华**","isCert":"2","realname_card":"1","pay_pwd":"","phone":"136****1111","realname_status":"1","trustType":"chinapnr","pwd":"1","email":"","is_trust":"1"}
+2022-07-22 00:23:00,446 INFO [test02_approve_trust.py(test02_approve_status:47)] - 断言通过！
+2022-07-22 00:23:00,446 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:23:01,535 INFO [test02_approve_trust.py(test03_trust:59)] - 接口执行结果为: {'status': 200, 'description': {'form': "<form name='easypaysubmit' id='easypaysubmit' target='_blank' method='post' action='http://121.43.169.97:8000/muser/publicRequests'><input name='Version' type='hidden' value='10'/><input name='CmdId' type='hidden' value='UserRegister'/><input name='MerCustId' type='hidden' value='6000060007313892'/><input name='BgRetUrl' type='hidden' value='https://www.baidu.com/'/><input name='RetUrl' type='hidden' value='http://user-p2p-test.itheima.net/trust/chinapnr/register/return/22072122530206071535'/><input name='UsrId' type='hidden' value=''/><input name='UsrName' type='hidden' value=''/><input name='IdType' type='hidden' value='00'/><input name='IdNo' type='hidden' value='288736775791902519'/><input name='UsrMp' type='hidden' value='13600001111'/><input name='UsrEmail' type='hidden' value=''/><input name='MerPriv' type='hidden' value='22072122530206071535'/><input name='ChkValue' type='hidden' value='-101'/><input name='CharSet' type='hidden' value='UTF-8'/></form><script>document.forms['easypaysubmit'].submit();</script>"}}
+2022-07-22 00:23:01,535 INFO [test02_approve_trust.py(test03_trust:63)] - 断言通过！
+2022-07-22 00:23:02,403 INFO [test02_approve_trust.py(test03_trust:68)] - 接口执行结果为: UserRegister OK
+2022-07-22 00:23:02,404 INFO [test02_approve_trust.py(test03_trust:71)] - 断言通过！
+2022-07-22 00:23:02,404 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:23:03,556 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 200
+2022-07-22 00:23:03,556 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:23:03,557 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:23:04,685 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 200
+2022-07-22 00:23:04,685 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:23:04,686 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:23:05,784 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 404
+2022-07-22 00:23:05,784 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:23:05,785 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:23:06,895 INFO [test02_approve_trust.py(test04_img_code:84)] - 接口执行结果为: 400
+2022-07-22 00:23:06,895 INFO [test02_approve_trust.py(test04_img_code:87)] - 断言通过！
+2022-07-22 00:23:06,895 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:23:08,324 INFO [test02_approve_trust.py(test05_recharge:102)] - 接口执行结果为: {'status': 200, 'description': {'form': "<form name='easypaysubmit' id='easypaysubmit' target='_blank' method='post' action='http://121.43.169.97:8000/muser/publicRequests'><input name='Version' type='hidden' value='10'/><input name='CmdId' type='hidden' value='NetSave'/><input name='MerCustId' type='hidden' value='6000060007313892'/><input name='UsrCustId' type='hidden' value='6020220721225302'/><input name='OrdId' type='hidden' value='22072122530885951435'/><input name='OrdDate' type='hidden' value='20220721'/><input name='GateBusiId' type='hidden' value='B2C'/><input name='OpenBankId' type='hidden' value=''/><input name='DcFlag' type='hidden' value='D'/><input name='TransAmt' type='hidden' value='1000.00'/><input name='RetUrl' type='hidden' value='http://user-p2p-test.itheima.net/trust/chinapnr/recharge/return/22072122530885951435'/><input name='BgRetUrl' type='hidden' value='https://www.baidu.com/'/><input name='OpenAcctId' type='hidden' value=''/><input name='CertId' type='hidden' value=''/><input name='MerPriv' type='hidden' value='10835'/><input name='ChkValue' type='hidden' value='-101'/><input name='CharSet' type='hidden' value='UTF-8'/></form><script>document.forms['easypaysubmit'].submit();</script>"}}
+2022-07-22 00:23:08,324 INFO [test02_approve_trust.py(test05_recharge:106)] - 断言通过！
+2022-07-22 00:23:09,237 INFO [test02_approve_trust.py(test05_recharge:111)] - 接口执行结果为: NetSave OK
+2022-07-22 00:23:09,237 INFO [test02_approve_trust.py(test05_recharge:114)] - 断言通过！
+2022-07-22 00:23:09,238 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:23:10,819 INFO [test02_approve_trust.py(test05_recharge:102)] - 接口执行结果为: {'status': 100, 'description': '验证码错误'}
+2022-07-22 00:34:13,378 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:35:21,607 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:42:23,596 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13600001111', 'password': 'test123'}
+2022-07-22 00:59:51,045 INFO [api_register_login.py(api_img_code:23)] - 正在调用获取图片验证码接口, 请求方法: get 请求url: http://user-p2p-test.itheima.net/common/public/verifycode1/123123
+2022-07-22 00:59:51,955 INFO [api_register_login.py(api_phone_code:35)] - 正在调用获取短信验证码接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/sendSms 请求参数: {'phone': '13612341113', 'imgVerifyCode': 8888, 'type': 'reg'}
+2022-07-22 00:59:52,327 INFO [api_register_login.py(api_register:50)] - 正在调用注册接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/reg 请求参数: {'phone': '13612341113', 'password': 'test123', 'verifycode': 8888, 'phone_code': 666666, 'dy_server': 'on', 'invite_phone': ''}
+2022-07-22 00:59:53,899 INFO [api_register_login.py(api_login:61)] - 正在调用登录接口, 请求方法: post 请求url: http://user-p2p-test.itheima.net/member/public/login 请求参数: {'keywords': '13612341113', 'password': 'test123'}
+2022-07-22 00:59:55,903 INFO [test04_tender_list.py(test01_tender_list:49)] - 接口执行结果为: UserRegister OK
+2022-07-22 00:59:55,903 INFO [test04_tender_list.py(test01_tender_list:52)] - 断言通过！
+2022-07-22 00:59:57,661 INFO [test04_tender_list.py(test01_tender_list:61)] - 接口执行结果为: NetSave OK
+2022-07-22 00:59:57,661 INFO [test04_tender_list.py(test01_tender_list:64)] - 断言通过！
